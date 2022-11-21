@@ -1,352 +1,378 @@
 #+STARTUP: indent
-#+options: toc:nil num:nil email:t
-#+title:UKABS Buddhist Studies University List
-#+author: Ilmari Koria
+#+options: html-style:nil todo:t num:nil html-postamble:nil toc:t toc:2 email:t
+#+title: Buddhist Studies in UK Universities -- WIP List
+#+author: Ilmari Koria (Volunteer assistant)
 #+email: ilmarikoria@posteo.net
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+todo: WAITING RECONTACT NORESPONSE EMAILED | EDITDONE
 
-* List
-** Cardiff University
+* Introduction
+This is a list of UK Universities with academics in Buddhist Studies and related areas providing their research interests. It also includes BA and MA programmes or modules in Buddhist studies, (including modules that have a significant Buddhist content). Also included is an indication of UK course provision for the learning of Sanskrit, Pali and Tibetan languages, as these are largely engaged in for the purpose of research or reading of Buddhist texts. Although not specified separately, where academic staff have the relevant expertise, proposals for doctoral research in Buddhist Studies may be welcomed.
+
+Updates and suggestions can be sent to Ilmari Koria via [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]]
+
+=List updated: 2022-11-21 Mon.=
+
+* University List
+** EMAILED Cardiff University
 *** People
-**** School of History, Archaeology and Religion
-***** Professor Max Deeg, Professor in Buddhist Studies, Head of Religion
-- Email: deegm1@cardiff.ac.uk
+**** [[https://www.cardiff.ac.uk/history-archaeology-religion][School of History, Archaeology and Religion]]
+***** Dr Simon Brodbeck, Reader in Religious Studies
+- Research: Early Sanskrit Literature, especially the Sanskrit Mahabharata; Anthropology.
+- Contact: [[mailto:brodbecksp@cardiff.ac.uk][brodbecksp@cardiff.ac.uk]]
+***** Prof Max Deeg, Professor in Buddhist Studies
+- Note: Study Leave 2022/3.
 - Research: Buddhist history, particularly the historical connection between India, Central Asia and China; Chinese Buddhist pilgrims.
-***** Dr. Ugo Dessi
-- Research: Modern East-Asian Buddhism and Buddhist groups.
+- Contact: [[mailto:deegm1@cardiff.ac.uk][deegm1@cardiff.ac.uk]]
 *** Courses
-**** Undergraduate level
-- Introduction to Buddhism (first year),
-- “Buddhism: The first 1000 years” (a historical overview of that period) [2nd year]
+**** Undergraduate
+- /Introduction to Buddhism/ (first year).
+- /Buddhism: The first 1000 years/ (a historical overview of that period) [2nd year]
 - We also offer Sanskrit as a scriptural language (taught by Dr. Simon Brodbeck).
-** Goldsmiths
+** EMAILED Goldsmiths, University of London
 *** People
-**** Department of History 
-***** Dr. Ronit Yoeli-Tlalim
-- r.yoeli-tlalim (at) gold.ac.uk
+**** [[https://www.gold.ac.uk/history/][Department of History]]
+***** Dr Ronit Yoeli-Tlalim, Reader
 - Research: the History of Asian Medicine, Interactions between Medicine and Buddhism, the transmission of medical ideas along the Silk-Roads and the history of early Tibetan medicine.
+- Contact: [[mailto:r.yoeli-tlalim@gold.ac.uk][r.yoeli-tlalim@gold.ac.uk]]
 *** Courses
-**** Department of History
- - Undergraduate:
-   - Years 2/3:
-     - A Global History of Buddhism
-     - History of Asian Medicine: From Manuscripts to YouTube
-   - Year 3:
-     - Healing, Magic and Mindfulness on the Silk Road (Special Subject: open to University of London students)
- - Postgraduate (MA):
-   - Healing, Magic and Mindfulness on the Silk Road
-** King's College London
+***** Undergraduate
+     - /A Global History of Buddhism/
+     - /History of Asian Medicine: From Manuscripts to YouTube/
+     - /Healing, Magic and Mindfulness on the Silk Road/ (Special Subject: open to University of London students)
+***** Postgraduate
+   - /Healing, Magic and Mindfulness on the Silk Road/
+** EMAILED King's College London
 *** People
-**** Department of Theology & Religious Studies
-***** Dr Ligeia Lugli, Research Associate in Buddhist Studies
-- Email Ligeia.Lugli@kcl.ac.uk
-- Research: Mahayana Buddhism, corpus linguistics
-***** Ven Dr Thanavuddho Watcharasriroj,Senior Visiting Research Fellow in Buddhist Studies
-- Email: thanavuddho.watcharasriroj@kcl.ac.uk
-- Research: Early Buddhist meditation
+**** [[https://www.kcl.ac.uk/trs][Department of Theology & Religious Studies]]
 ***** Dr Amal Gunasena, Senior Visiting Research Fellow in Buddhist Studies
-- Email Amal.Gunasena@kcl.ac.uk
-- Research: Sinhala Linguistics and Sinhalese Buddhist Manuscripts
-***** Prof. Kate Crosby, Professor of Buddhist Studies
-- email: henrietta.crosby(at)kcl.ac.uk
-- Research: Theravada Buddhism; Sanskrit and Pali language and literature, including vernacular-Pali mixed literature; Buddhist practice and traditions of Sri Lanka and Southeast Asia; Buddhism in Application; History of Science in Buddhist contexts.
-***** Prof. Ian Harris, Visiting Professor of Buddhist Studies
-- email: chamkarmon(at)gmail.com|
-- Research: Buddhism in Cambodia; Buddhism and Politics; Buddhist Ethics
+- Research: Sinhala Linguistics and Sinhalese Buddhist Manuscripts.
+- Contact: [[mailto:amal.gunasena@kcl.ac.uk][amal.gunasena@kcl.ac.uk]]
+***** Dr Andrew Skilton, Senior Research Fellow in Buddhist Studies
+- Research: Buddhist literature (especially sutra literature), Buddhist texts in Sanskrit and Pali, The Samadhiraja Sutra, Buddhist meditation, traditional Theravada, Buddhism in application, transmission of Buddhism to the UK.
+- Contact: [[mailto:andrew.skilton@kcl.ac.uk][andrew.skilton@kcl.ac.uk]]
 ***** Dr Kuan Guang, Ji Xue Gen Research Fellow in Buddhist Studies
-- Email: Kuan.Guang(at)kcl.ac.uk
-- Research: Late imperial Chinese Buddhism.
+- Research: Late imperial Chinese Buddhism
+- Contact: [[mailto:kuan.guang@kcl.ac.uk][kuan.guang@kcl.ac.uk]]
+***** Dr Ligeia Lugli, Research Associate in Buddhist Studies
+- Research: Mahayana Buddhism, corpus linguistics.
+- Contact: [[mailto:ligeia.lugli@kcl.ac.uk][ligeia.lugli@kcl.ac.uk]]
 ***** Dr Pyi Kyaw, Research Fellow in Buddhist Studies
-- Email Pyi.Kyaw(at)kcl.ac.uk
-- Research: Burmese Abhidhamma. Buddhist ethics.
-** Lancaster University 
+- Research: Burmese Abhidhamma; Buddhist ethics.
+- Contact: [[mailto:pyi.kyaw@kcl.ac.uk][pyi.kyaw@kcl.ac.uk]]
+***** Prof Ian Harris, Visiting Professor of Buddhist Studies
+- Research: Buddhism in Cambodia; Buddhism and Politics; Buddhist Ethics.
+- Contact: [[mailto:chamkarmon@gmail.com][chamkarmon@gmail.com]]
+***** Prof Kate Crosby, Professor of Buddhist Studies
+- Research: Theravada Buddhism; Sanskrit and Pali language and literature, including vernacular-Pali mixed literature; Buddhist practice and traditions of Sri Lanka and Southeast Asia; Buddhism in Application; History of Science in Buddhist contexts.
+- Contact: [[mailto:henrietta.crosby@kcl.ac.uk][henrietta.crosby@kcl.ac.uk]]
+***** Ven Dr Thanavuddho Watcharasriroj, Senior Visiting Research Fellow in Buddhist Studies
+- Research: Early Buddhist meditation.
+- Contact: [[mailto:thanavuddho.watcharasriroj@kcl.ac.uk][thanavuddho.watcharasriroj@kcl.ac.uk]]
+** EMAILED Lancaster University 
 *** People
-**** Department of Politics, Philosophy and Religion
-***** Dr. Hiroko Kawanami
-***** Dr. Anderson Jeremiah
-***** Professor Chakravarthi Ram-Prasad
+**** [[https://www.lancaster.ac.uk/ppr/][Department of Politics, Philosophy and Religion]]
+***** Prof Chakravarthi Ram-Prasad, Distinguished Professor of Comparative Religion and Philosophy
+- Research: Indian (Hindu, Buddhist, Jain) and comparative phenomenology, epistemology, metaphysics, theology, and philosophy of religion; religion, politics and conflict; South Asian religious identities in contemporary Britain; the conceptual sources of modern Hindu life and beliefs.  
+- Contact: [[mailto:c.ram-prasad@lancaster.ac.uk][c.ram-prasad@lancaster.ac.uk]]
+***** Prof Hiroko Kawanami, Professor of Buddhism and Society
+- Research: Gender and Buddhism, dissemination of knowledge and moral values, social justice and wellbeing, charismatic power(s) of monastic practitioners, and more recently on Buddhist orthodoxy and how heretical monks are created in Myanmar.
+- Contact: [[mailto:h.kawanami@lancaster.ac.uk][h.kawanami@lancaster.ac.uk]]
 *** Courses
- - RST 100, ‘Buddhism section’ in World Religions for Part One (1st year students in RS)
- - PPR 252, Buddhism and Modernity in Asian Societies (2nd year core module)
- - PPR 354, Reading Buddhism (3rd year and MA Students)
- - PPR 350, Indian Religious and Philosophical Thought
- - PPR 239, Indian Politics, Society and Religion
- - PPR 253, Hinduism in the Modern World
-** SOAS
-*** People
-**** Department of Religions and Philosophies
-***** Dr Antonello Palumbo, Senior Lecturer in the Religions of China
-- Email: ap47@soas.ac.uk
-- Research: Ideological history of pre-modern China; Chinese religions, notably Taoism and Buddhism; history of the Buddhist canon in China; Manichaeism and Iranian influences in medieval China; Chinese cultural relations with Central Asia
-***** Professor Ulrich Pagel, Head of School
-- Email: up1@soas.ac.uk
-- Research: History of Buddhism in Tibet, Mahāyāna Buddhism, Kanjur Studies, Vinaya, Religions of Central Asia, Tibetan, Sanskrit. 
-***** Dr Lucia Dolce, Numata Reader in Japanese Buddhism
-- Email: ld16@soas.ac.uk
-- Research: Japanese religious history, especially the medieval period; Japanese Tantric Buddhism and the esotericisation of religious practice; Millenarian writings and prophecy; Kami-Buddhas associations
-**** Department of the History of Art and Archaeology
-***** Dr Christian Luczanits, David L. Snellgrove Senior Lecturer in Tibetan and Buddhist Art
-- Email: cl46@soas.ac.uk
-- Research: History of art and architecture of the Himalayan region; Buddhist art of the western Himalayas; Gandharan art; presenting and exhibiting Buddhist art; heritage, preservation and conservation.
-***** Dr Peter D. Sharrock, Senior Teaching Fellow
-- Email: ps56@soas.ac.uk
-- Research: He is now focusing on the evidence in Indochina for the influence of tantric or esoteric Buddhism, developed in the great monasteries of the Ganges valley and diffused and developed in different ways through much of Asia. 
- 
-*** Courses
-- MA Buddhist Studies
-** University College London
+ - /‘Buddhism section’ in World Religions for Part One/ (1st year students in RS)
+ - /Buddhism and Modernity in Asian Societies/ (2nd year core module)
+ - /Reading Buddhism/ (3rd year and MA Students)
+ - /Indian Religious and Philosophical Thought/
+ - /Indian Politics, Society and Religion/
+ - /Hinduism in the Modern World/
+
+** EMAILED University College London
 *** People 
-**** UCL, Department of Anthropology
-***** Dr. Joanna Cook, Reader in Medical Anthropology
+**** [[https://www.ucl.ac.uk/anthropology/ucl-anthropology][Department of Anthropology]]
+***** Dr Joanna Cook, Reader in Medical Anthropology
 - Research: Buddhism, mental health, mindfulness, monasticism, gender, Thailand, UK, the anthropology of ethics. 
-** University of Aberdeen
+- Contact: [[mailto:joanna.cook@ucl.ac.uk][joanna.cook@ucl.ac.uk]]
+** EMAILED University of Aberdeen
 *** People
-**** School of Social Science
+**** [[https://www.abdn.ac.uk/socsci/][School of Social Science]]
 ***** Dr Martin A. Mills, Senior Lecturer
-- Email: m.a.mills(at)abdn.ac.uk
 - Research: The anthropology of Tibet and Tibetan-speaking areas, and in particular its religious and state life (including the ceremonial nexuses of Tibetan monastic and state life); the formulation of new ways in which modern ethnographers of Tibetan regions can integrate their work with textual specialists and indigenous scholars to create an historical anthropology of the region.
-** University of Bristol
+- Contact: [[mailto:m.a.mills@abdn.ac.uk][m.a.mills@abdn.ac.uk]]
+** EMAILED University of Bristol
 *** People
-**** Department of Religion and Theology
-***** Prof. Rupert Gethin, Professor of Buddhist Studies
-- email: rupert.gethin(at)bristol.ac.uk
-- Research:  Early Buddhist literature, the history and development of Buddhist thought in the Nikayas and Pali commentaries, Indian Buddhist meditation, Abhidharma.
-***** Dr. Rita Langer, Senior Lecturer in Buddhist Studies
-- email: rita.langer(at)bristol.ac.uk
-- Research: Research: Merit in the early Pali sources; Buddhist ritual and its origin (in South and South East Asia, particularly Sri Lanka); Food and Cosmology).
-***** Dr. Benedetta Lomi, Lecturer in East Asian Religions
-- email: b.lomi(at)bristol.ac.uk
+**** [[http://www.bristol.ac.uk/religion/][Department of Religion and Theology]]
+***** Dr Benedetta Lomi, Lecturer in East Asian Religions
 - Research: The History of Japanese Buddhism, Japanese Esoteric Buddhism, Esoteric Buddhism in East Asia, Buddhist Medicine, Healing Rituals, Buddhist Iconography."
+- Contact: [[mailto:b.lomi@bristol.ac.uk][b.lomi@bristol.ac.uk]]
+***** Dr Rita Langer, Senior Lecturer in Buddhist Studies
+- Research: Research: Merit in the early Pali sources; Buddhist ritual and its origin (in South and South East Asia, particularly Sri Lanka); Food and Cosmology).
+- Contact: [[mailto:rita.langer@bristol.ac.uk][rita.langer@bristol.ac.uk]]
+***** Prof Rupert Gethin, Professor of Buddhist Studies
+- Research: Early Buddhist literature, the history and development of Buddhist thought in the Nikayas and Pali commentaries, Indian Buddhist meditation, Abhidharma.
+- Contact: [[mailto:rupert.gethin@bristol.ac.uk][rupert.gethin@bristol.ac.uk]]
 *** Courses
-- BA in  Religion and Theology (Not all these units will be available in any one year):
-  - Living Religions East
-  - Religions and Cultural Change in India: from Indus to Islam
-  - Religion and Material Culture
-  - 3000 Years of Chinese Religion
-  - Indian Philosophy
-  - Zen Buddhism
-  - Buddhist Psychology and Mental Health
-  - Buddhism in Practice
-  - Yoga and Meditation
-  - Introduction to Japanese Religions
-  - The Lotus Sūtra
-  - The Journey to the West
-  - Mahāyāna Literature in East Asia
-  - The Body in East Asian Religions
-  - Sanskrit
-  - Classical Chinese
-- MA in Religion (Buddhist Studies)[Not all these units will be available in any one year]:
-  - Buddhism: The Foundations
-  - Buddhism in Practice
-  - Buddhist Psychology and Mental Health
-  - Yoga and Meditation
-  - Mahāyāna Literature in East Asia
-  - Zen Buddhism
-  - Esoteric Buddhism in East Asia
-  - The Body in East Asian Religions
-  - Sanskrit
-  - Buddhist Sanskrit and Pali
-  - Classical Chinese
+**** BA in Religion and Theology [Not all these units will be available in any one year]:
+  - /Living Religions East/
+  - /Religions and Cultural Change in India: from Indus to Islam/
+  - /Religion and Material Culture/
+  - /3000 Years of Chinese Religion/
+  - /Indian Philosophy/
+  - /Zen Buddhism/
+  - /Buddhist Psychology and Mental Health/
+  - /Buddhism in Practice/
+  - /Yoga and Meditation/
+  - /Introduction to Japanese Religions/
+  - /The Lotus Sūtra/
+  - /The Journey to the West/
+  - /Mahāyāna Literature in East Asia/
+  - /The Body in East Asian Religions/
+  - /Sanskrit/
+  - /Classical Chinese/
+**** MA in Religion (Buddhist Studies) [Not all these units will be available in any one year]:
+  - /Buddhism: The Foundations/
+  - /Buddhism in Practice/
+  - /Buddhist Psychology and Mental Health/
+  - /Yoga and Meditation/
+  - /Mahāyāna Literature in East Asia/
+  - /Zen Buddhism/
+  - /Esoteric Buddhism in East Asia/
+  - /The Body in East Asian Religions/
+  - /Sanskrit/
+  - /Buddhist Sanskrit and Pali/
+  - /Classical Chinese/
 
-** University of Chester
+** EMAILED University of Chester
 *** People
-**** Department of Theology and Religious Studies: Faculty of Arts and Humanities https://www1.chester.ac.uk/departments/theology-and-religious-studies
+**** [[https://www1.chester.ac.uk/departments/theology-and-religious-studies][Department of Theology and Religious Studies]]
 ***** Dr Dhivan Jones, Lecturer in Religious and Philosophical Studies
-- Email: dhivan.jones@chester.ac.uk
 - Research: Early Buddhism, Buddhist philosophy
+- Contact: [[mailto:dhivan.jones@chester.ac.uk][dhivan.jones@chester.ac.uk]]
 ***** Dr Wendy Dossett, Associate Professor of Religious Studies
-- Email: w.dossett@chester.ac.uk
 - Research: Japanese Pure Land Buddhism, Buddhism and Addiction Recovery
+- Contact: [[mailto:w.dossett@chester.ac.uk][w.dossett@chester.ac.uk]]
 *** Courses
-- Undergraduate courses or modules;
-  - LEVEL 4 TH4063 Reading Religions: texts traditions and teachings. (Five sessions on Buddhist texts).
-  - LEVEL 4 TH5064 Philosophy, Religion and the Good Life. (Two sessions on Buddhist philosophy, ancient and modern).
-  - LEVEL 4 TH4065 Introducing Ethics: Food, Sex and War. (Three sessions on Buddhist ethics).
-  - LEVEL 5 TH5055 Asian Philosophies: Knowledge, Liberation and the Self. (Buddhist philosophy a major component of the course).
-  - LEVEL 6 TH6046 Religion and Culture: transformations of British religious life 1960-2010 (One session on Buddhism in Britain)
-  - LEVEL 6 TH6057 Violence and Nationalism (Two sessions on contemporary Buddhist nationalism)
-- Postgraduate taught courses
-  - TH7046 Buddhist Concepts of Awakening (20 credit MA module in MA Religious Studies programme).
-** University of Durham
+**** Undergraduate
+  - /Reading Religions: texts traditions and teachings/ (Five sessions on Buddhist texts)
+  - /Philosophy, Religion and the Good Life/ (Two sessions on Buddhist philosophy, ancient and modern)
+  - /Introducing Ethics: Food, Sex and War/ (Three sessions on Buddhist ethics)
+  - /Asian Philosophies: Knowledge, Liberation and the Self/ (Buddhist philosophy a major component of the course)
+  - /Religion and Culture: transformations of British religious life 1960-2010/ (One session on Buddhism in Britain)
+  - /Violence and Nationalism/ (Two sessions on contemporary Buddhist nationalism)
+**** Postgraduate
+  - /Buddhist Concepts of Awakening/ (20 credit MA module in MA Religious Studies programme).
+** EMAILED Durham University
 *** People
-**** Department of Anthropology
-***** Prof. Michael Carrithers 
- - Research: Currently, public culture in Germany, particularly East Germany; but has worked on forest monks in Sri Lanka.
-**** Department of Archaeology
-***** Prof. Robin Coningham, 2014 UNESCO Chair on Archaeological Ethics and Practice in Cultural Heritage 
+**** [[https://www.durham.ac.uk/departments/academic/archaeology/][Department of Archaeology]]
+***** Prof Robin Coningham, 2014 UNESCO Chair on Archaeological Ethics and Practice in Cultural Heritage 
 - Research: The archaeological of South Asian Buddhism, Lumbini and the Greater Lumbini Area, Buddhist Heritage protection and preservation, Caste and the development of craft specialisation, Indian Ocean and Arabian Sea Trade.
-**** Department of Philosophy
-***** Dr. Simon James, Associate Professor
+- Contact: [[mailto:r.a.e.coningham@durham.ac.uk][r.a.e.coningham@durham.ac.uk]]
+**** [[https://www.durham.ac.uk/departments/academic/philosophy/contact-us/][Department of Philosophy]]
+***** Professor Simon P. James, Professor/DEC Chair 
 - Research: Environmental philosophy, Buddhist philosophy (especially ethics).
+- Contact: [[https://www.durham.ac.uk/departments/academic/philosophy/contact-us/][via department contact form]].
 
-** University of Edinburgh
+** EMAILED University of Edinburgh
 *** People
-**** College of Arts, Humanities and Social Sciences, more information here: https://www.ed.ac.uk/buddhist-studies
-***** Dr. Naomi Appleton, Senior Lecturer in Asian Religions
- - Religious Studies, School of Divinity
- - Resesarch interests: Early Indian Buddhism including the intersection with Brahmanical Hindu and Jain traditions, Buddhist narrative especially in Indian literature and art, Theravada Buddhism.
-***** Dr. Ian Astley, Senior Lecturer in Japanese
- - Asian Studies, School of Literatures, Languages and Cultures
- - Research interests: The Shingon Buddhist tradition in Japan and its Chinese antecedents; Japanese and Chinese religions and philosophy, especially Buddhism.
-***** Prof. Joachim Gentz, Chair in Chinese Philosophy and Religion
- - Asian Studies, School of Literatures, Languages and Cultures
- - Research interests: Chinese philosophy and religions, text and commentary, ritual and divination, and theories of cultural and religious studies.
+**** [[https://www.ed.ac.uk/arts-humanities-soc-sci][College of Arts, Humanities and Social Sciences]]
 ***** Dr Halle O’Neal, Reader in Japanese Buddhist Art
- - History of Art, Edinburgh College of Art
- - Research interests: Medieval Japanese art, including themes such as word and image, relics and reliquaries, invisibility in visual and material culture, reuse and recycling, performativity, and the spectacular visualizations of embodiment.
-***** Prof. Jonathan Spencer, Regius Professor of South Asian Language, Culture and Society 
- - Social Anthropology
- - Research interests: Religion and politics, Sri Lanka, South and Southeast Asia, Buddhism, war and peace.
-*** Courses
- - The main undergraduate programmes with the option of significant Buddhist Studies courses are:
+ - Research: Medieval Japanese art, including themes such as word and image, relics and reliquaries, invisibility in visual and material culture, reuse and recycling, performativity, and the spectacular visualisations of embodiment.
+ - Contact: [[mailto:halle.oneal@ed.ac.uk][halle.oneal@ed.ac.uk]]
+***** Dr Ian Astley, Senior Lecturer in Japanese
+ - Research: The Shingon Buddhist tradition in Japan and its Chinese antecedents; Japanese and Chinese religions and philosophy, especially Buddhism.
+ - Contact: [[mailto:ian.astley@ed.ac.uk][ian.astley@ed.ac.uk]]
+***** Dr Naomi Appleton, Senior Lecturer in Asian Religions
+ - Research: Early Indian Buddhism including the intersection with Brahmanical Hindu and Jain traditions, Buddhist narrative especially in Indian literature and art, Theravada Buddhism.
+ - Contact: [[mailto:naomi.appleton@ed.ac.uk][naomi.appleton@ed.ac.uk]]
+***** Prof Joachim Gentz, Chair in Chinese Philosophy and Religion
+ - Research: Chinese philosophy and religions, text and commentary, ritual and divination, and theories of cultural and religious studies.
+ - Contact: [[mailto:joachim.gentz@ed.ac.uk][joachim.gentz@ed.ac.uk]]
+***** Prof Jonathan Spencer, Regius Professor of South Asian Language, Culture and Society 
+ - Research: Religion and politics, Sri Lanka, South and Southeast Asia, Buddhism, war and peace.
+ - Contact: [[mailto:jonathan.spencer@ed.ac.uk][jonathan.spencer@ed.ac.uk]]
+*** Modules
    - MA Religious Studies (4 year undergraduate programme, School of Divinity)
    - MA Chinese and MA Japanese (4 year undergraduate programmes, Asian Studies)
-   - though Anthropology and Art History also have some relevant optional courses.
+   - Anthropology and Art History also have some relevant optional courses.
    - Courses on offer vary year on year, and are often available across programmes outside their “home” School.
- - At postgraduate level there is a taught masters (MSc) in Religious Studies, and research degrees (MScR, PhD) available working with any of the people noted above.
- - Please contact individual members of staff to discuss this.
-** University of Kent
+   - At postgraduate level there is a taught masters (MSc) in Religious Studies, and research degrees (MScR, PhD) available working with any of the people noted above.
+   - Please contact individual members of staff to discuss this.
+** EMAILED University of Kent
 *** People
-**** School of European Culture and Languages
-***** Dr. Leslie de Vries
-**** School of Anthropology and Conservation
-***** Dr. Jonathan Mair
+**** [[https://www.kent.ac.uk/religious-studies/][Department of Religious Studies]]
+***** Dr Leslie de Vries, Lecturer in East Asian Studies
+- Research: History of medicine and religion in China, Vietnam and Japan, with a focus on cosmology, the body, self-cultivation and therapy.
+- Contact: [[mailto:l.devries@kent.ac.uk][l.devries@kent.ac.uk]]
 *** Courses
-- Undergraduate
-  - Stage 1:
-    - "Hinduism and Buddhism"
-      - half of the module devoted to Buddhism
-    - "Introduction to East Asian Traditions" (module convenor: Dr Leslie de Vries)
-      - one or more sessions on East Asian Buddhism
-    - "Ethics, Society and the Good Life" (module convenor: Dr Yvonne Sherwood)
-      - one session on Buddhist ethics
-  - Stage 2
-    - "Themes in the Study of Asia"
-      - one or more sessions on Buddhism and related topics such as mindfulness
-    - "Buddhism: The Foundations"
-  - Stage 3
-    - "Religion and Japanese Culture" (module convenor: Dr Leslie de Vries)
-      - various sessions on Japanese Buddhism
-    - "Health, Medicine and the Body in East Asia" (module convenor: Dr Leslie de Vries)
-      - one or more sessions on Buddhism
-    - "Critical Issues in the Study of Buddhism"
-    - "Dissertation" (module convenor: Dr Lois Lee)
+**** Undergraduate
+- /Hinduism and Buddhism/
+- /Introduction to East Asian Traditions/ (one or more sessions on East Asian Buddhism)
+- /Ethics, Society and the Good Life/ (one session on Buddhist ethics)
+- /Themes in the Study of Asia/ (one or more sessions on Buddhism and related topics such as mindfulness)
+- /Buddhism: The Foundations/
+- /Religion and Japanese Culture/ (sessions on Japanese Buddhism)
+- /Health, Medicine and the Body in East Asia/ (one or more sessions on Buddhism)
+- /Critical Issues in the Study of Buddhism/
+**** Postgraduate
 - Possible to do a MA dissertation in Religious Studies on Buddhism.
-  - Note: No MA for 2021 academic year, but Dr. der Vries will include sessions in the module "Spirituality and Therapy".
-** University of Leeds
+ 
+** EMAILED University of Leeds
 *** People
-**** School of Languages, Cultures and Societies
+**** [[https://ahc.leeds.ac.uk/languages][School of Languages, Cultures and Societies]]
 ***** Professor Martin Seeger, Professor of Thai Studies
-- Email: M.Seeger@leeds.ac.uk
 - Research: Theravada Buddhism; Thai Buddhism; modern Thai history; Thai language 
-** University of Manchester
+- Contact: [[mailto:m.seeger@leeds.ac.uk][m.seeger@leeds.ac.uk]]
+** EMAILED University of London, School of Oriental and African Studies (SOAS)
 *** People
-**** School of Social Sciences
-***** Dr. Erica Baffelli https://www.research.manchester.ac.uk/portal/erica.baffelli.html
-***** Dr. Gregory Adam Scott https://www.research.manchester.ac.uk/portal/gregory.scott.html
+**** [[https://www.soas.ac.uk/about/schools-departments-and-sections/department-religions-and-philosophies][Department of Religions and Philosophies]]
+***** Dr Lucia Dolce, Numata Reader in Japanese Buddhism
+- Research: Japanese religious history, especially the medieval period; Japanese Tantric Buddhism and the esotericisation of religious practice; Millenarian writings and prophecy; Kami-Buddhas associations
+- Contact: [[mailto:ld16@soas.ac.uk][ld16@soas.ac.uk]]
+***** Professor Ulrich Pagel, Head of School
+- Research: History of Buddhism in Tibet, Mahāyāna Buddhism, Kanjur Studies, Vinaya, Religions of Central Asia, Tibetan, Sanskrit. 
+- Contact: [[mailto:up1@soas.ac.uk][up1@soas.ac.uk]]
+**** [[https://www.soas.ac.uk/about/schools-departments-and-sections/department-history-art-and-archaeology][Department of the History of Art and Archaeology]]
+***** Dr Christian Luczanits, David L. Snellgrove Senior Lecturer in Tibetan and Buddhist Art
+- Research: History of art and architecture of the Himalayan region; Buddhist art of the western Himalayas; Gandharan art; presenting and exhibiting Buddhist art; heritage, preservation and conservation.
+- Contact: [[mailto:cl46@soas.ac.uk][cl46@soas.ac.uk]]
+***** Dr Peter D. Sharrock, Senior Teaching Fellow
+- Research: He is now focusing on the evidence in Indochina for the influence of tantric or esoteric Buddhism, developed in the great monasteries of the Ganges valley and diffused and developed in different ways through much of Asia. 
+- Contact: [[mailto:ps56@soas.ac.uk][ps56@soas.ac.uk]]
 *** Courses
-- JAPA20221, History of Religion in Japan
-- CHIN30312, Religious and Political Ideologies of Modern Chian
-** University of Oxford
+**** Postgraduate
+- MA Buddhist Studies
+** EMAILED University of Manchester
 *** People
-**** Faculty of Oriental Studies
-***** Dr. Cathy Cantwell, Associate Faculty Member 
-- email: catherine.cantwell(at)orinst.ox.ac.uk
+**** [[https://www.research.manchester.ac.uk/portal/en/facultiesandschools/school-of-arts-languages-and-cultures(67be616e-b627-4747-a791-872e7594dfc1).html][School of Arts, Languages and Cultures]]
+***** Dr Gregory Adam Scott, Senior Lecturer in Chinese Culture and History
+- Research: History and culture of China between 1800 and 1978. 
+- Contact: [[mailto:gregory.scott@manchester.ac.uk][gregory.scott@manchester.ac.uk]]
+***** Prof Erica Baffelli, Professor of Japanese Studies
+- Research: Religion in contemporary Japan with a focus on religious minorities/marginalities, media and technology, violence, emotions and temporalities. 
+- Contact: [[mailto:erica.baffelli@manchester.ac.uk][erica.baffelli@manchester.ac.uk]]
+*** Courses
+- /History of Religion in Japan/
+- /Religious and Political Ideologies of Modern China/
+** EMAILED University of Oxford
+*** People
+**** [[https://orinst.web.ox.ac.uk/][Faculty of Asian and Middle Eastern Studies]]
+***** Dr Cathy Cantwell, Associate Faculty Member
 - Research: Tibetan textual transmission/development; tantric rituals, symbolism, art; rNying-ma canonical texts; Dunhuang and later ritual manuals; Phur-pa traditions (rNying-ma, Sa-skya, Bon); bDud-’joms gter-ma tradition.
-***** George FitzHerbert, Departmental Lecturer 
-- email: george.fitzherbert(at)orinst.ox.ac.uk
+- Contact: [[mailto:catherine.cantwell@orinst.ox.ac.uk][catherine.cantwell@orinst.ox.ac.uk]]
+***** Dr George FitzHerbert, Departmental Lecturer 
 - Research: The chivalric, shamanic and tantric Gesar epic tradition.  More broadly, Tibetan political, religious and cultural history; Cultural relations between Tibet and Central, South and East Asia; and the Tibetan language.
-***** Prof. David Gellner, Professor of Social Anthropology
-- email: david.gellner(at)anthro.ox.ac.uk
-- Research: Anthropology of South Asia, East Asia, Buddhism, Hinduism, cities, ritual, politics, ethnicity, activism, borderlands, class formation and cultural change.
-***** Prof. Richard F. Gombrich, retired
-- email: richard.gombrich(at)balliol.ox.ac.uk
-- Research: Early Buddhism
+- Contact: [[mailto:george.fitzherbert@orinst.ox.ac.uk][george.fitzherbert@orinst.ox.ac.uk]]
 ***** Dr Robert Mayer, University Research Lecturer
-- email: robert.mayer(at)orinst.ox.ac.uk
 - Research: Early rNying ma and Bon tantric tradition, Critically editing old Tibetan texts, Dunhang tantric texts
-***** Prof. Ulrike Roesler, Professor of Tibetan and Himalayan Studies
-- email:  ulrike.roesler@orinst.ox.ac.uk
-- Research: Literature and religion of the Veda; Indo-Tibetan Buddhism; history of bKa’-gdams-pa school; ‘sacred landscapes’ in literature and ritual practice.
-***** Dr. Sarah Shaw, Faculty Member
-- email: sarah.shaw(at)orinst.ox.ac.uk
+- Contact: [[mailto:robert.mayer@orinst.ox.ac.uk][robert.mayer@orinst.ox.ac.uk]]
+***** Dr Sarah Shaw, Faculty Member
 - Research: Early Buddhist (Pali) suttas and Abhidhamma material on meditation; Early Buddhist narrative: literary features of Jatakas and Dhammapada stories; Indian and Asian influences on British nineteenth-century writers; modern South and Southeast Asian Buddhist ritual, chant and meditation.
-***** Dr Andrew Skilton, Faculties of Theology and Oriental Faculties
-- Research: Pali literature and Indian Mahāyāna texts in Sanskrit (particularly the Samādhirājasūtra). Orality in Buddhist literature, literary and other methods of textual exegesis, Buddhist meditation and pre-reform meditation in South and Southeast Asia. 
-**** Faculty of Theology and Religion
+- [[mailto:sarah.shaw@orinst.ox.ac.uk][sarah.shaw@orinst.ox.ac.uk]]
+***** Prof David Gellner, Professor of Social Anthropology
+- Research: Anthropology of South Asia, East Asia, Buddhism, Hinduism, cities, ritual, politics, ethnicity, activism, borderlands, class formation and cultural change.
+- Contact: [[mailto:david.gellner@anthro.ox.ac.uk][david.gellner@anthro.ox.ac.uk]]
+***** Prof Ulrike Roesler, Professor of Tibetan and Himalayan Studies
+- Research: Literature and religion of the Veda; Indo-Tibetan Buddhism; history of bKa’-gdams-pa school; ‘sacred landscapes’ in literature and ritual practice.
+- Contact: [[mailto:ulrike.roesler@orinst.ox.ac.uk][ulrike.roesler@orinst.ox.ac.uk]]
+**** [[https://www.theology.ox.ac.uk/][Faculty of Theology and Religion]]
 ***** Prof Jan Westerhoff, Professor of Buddhist Philosophy
-- email: jan.westerhoff@theology.ox.ac.uk
 - Research: Philosophical aspects of the religious traditions of ancient India. Buddhist thought (especially Madhyamaka) as preserved in Sanskrit and Tibetan sources; Classical Indian philosophy (particularly Nyāya); Buddhist philosophy, both theoretical (metaphysics, epistemology, philosophy of language) and normative aspects (ethics).
+- Contact: [[mailto:jan.westerhoff@theology.ox.ac.uk][jan.westerhoff@theology.ox.ac.uk]]
 *** Courses
- - BA in Religion and Oriental Studies:
-   - Introduction to the Study of Religion
-   - Introduction to a Buddhist Canonical Language: Pali
-   - Introduction to a Buddhist Canonical Language: Tibetan
-   - Set Texts in a Buddhist Canonical Language: Pali
-   - Set Texts in a Buddhist Canonical Language: Tibetan
-   - Foundations of Buddhism
-   - Buddhism in Space and Time
-   - Further Buddhist Texts: Pali
-   - Further Buddhist Texts: Tibetan
+**** Undergraduate
+ - BA Religion and Oriental Studies:
+   - /Introduction to the Study of Religion/
+   - /Introduction to a Buddhist Canonical Language: Pali/
+   - /Introduction to a Buddhist Canonical Language: Tibetan/
+   - /Set Texts in a Buddhist Canonical Language: Pali/
+   - /Set Texts in a Buddhist Canonical Language: Tibetan/
+   - /Foundations of Buddhism/
+   - /Buddhism in Space and Time/
+   - /Further Buddhist Texts: Pali/
+   - /Further Buddhist Texts: Tibetan/
  - BA in Sanskrit:
-   - Sanskrit
-   - Pali
-   - Tibetan
+   - /Sanskrit/
+   - /Pali/
+   - /Tibetan/
+**** Postgraduate
  - MSt in Oriental Studies:
    - Tailor-made courses depending on student’s interest
  - MPhil in Buddhist Studies:
-   - Core courses:
-     - Sanskrit
-     - Tibetan
-     - Chinese
-     - Aspects of Buddhist Thought and History
-     - Approaches to the Study of Buddhism
-     - Readinxg Buddhist Texts in Primary Languages (Sanskrit, Tibetan, Chinese)
- - Optional courses:
-   - The Nature of Religion
-   - The anthropology of Buddhism
-   - Introduction to Buddhist Philosophy
-   - Pali
-   - History and Civilization of Tibet and the Himalaya
-   - Advanced Readings in Chinese Buddhist Texts
+   - /Sanskrit/
+   - /Tibetan/
+   - /Chinese/
+   - /Aspects of Buddhist Thought and History/
+   - /Approaches to the Study of Buddhism/
+   - /Reading Buddhist Texts in Primary Languages (Sanskrit, Tibetan, Chinese)/
+   - /The Nature of Religion/
+   - /The anthropology of Buddhism/
+   - /Introduction to Buddhist Philosophy/
+   - /Pali/
+   - /History and Civilization of Tibet and the Himalaya/
+   - /Advanced Readings in Chinese Buddhist Texts/
  - MPhil in Classical Indian Religion:
-   - Sanskrit
-   - Sanskrit religious texts
+   - /Sanskrit/
+   - /Sanskrit religious texts/
  - MPhil in Tibetan and Himalayan Studies:
-   - Tibetan
-   - Buddhism
-   - Tibetan History and Civilization
-   - Tibetan Buddhism
-- Email: m.deegalle@bathspa.ac.uk
-- Research: Ethics of war, violence and conflict in Buddhist societies
-** University of South Wales
+   - /Tibetan/
+   - /Buddhism/
+   - /Tibetan History and Civilization/
+   - /Tibetan Buddhism/
+** EMAILED University of South Wales
 *** People
-**** Faculty of Business and Society 
+**** [[https://www.southwales.ac.uk/courses/faculty/FCI/?faculty_title=Faculty+of+Creative+Industries][Faculty of Creative Industries]]
 ***** Dr Nick Swann, Senior Lecturer and Course Leader
-- nick.swann@southwales.ac.uk
 - Research: Tibetan Religion, Anthropology of Religion, Buddhist Ethics, Digital Buddhism.
+- Contact: [[mailto:nick.swann@southwales.ac.uk][nick.swann@southwales.ac.uk]]
 ***** Dr Sarah Shaw, Khyentse Foundation Reader in Buddhist Studies
-- sarah.shaw@southwales.ac.uk
 - Research: Pāli Buddhist narrative and meditative literature; Southeast Asian ritual and chant; Abhidhamma.
+- Contact: [[mailto:sarah.shaw@southwales.ac.uk][sarah.shaw@southwales.ac.uk]]
 ***** Dr Warren Todd, Associate Lecturer
-- warren.todd@southwales.ac.uk
 - Research: Buddhist Philosophy, Buddhist Ethics, Comparative Ethics & Philosophy.
+- Contact: [[mailto:warren.todd@southwales.ac.uk][warren.todd@southwales.ac.uk]]
 *** Courses
-***** School of Humanities and Social Sciences
+**** Postgraduate
 - MA Buddhist Studies
-  - Buddhist Ethics
-  - Buddhist Philosophy
-  - Buddhist Meditation and Psychology
-  - Pali Language
+  - /Buddhist Ethics/
+  - /Buddhist Philosophy/
+  - /Buddhist Meditation and Psychology/
+  - /Pali Language/
   - Distance learning, part-time (two or three year options).
-** University of Stirling
+** EMAILED University of Stirling
 *** People
-**** Division of Literature and Languages
+**** [[https://www.stir.ac.uk/about/faculties/arts-humanities/literature-and-languages/][Division of Literature and Languages]]
 ***** Kevin MacNeil, Lecturer in Creative Writing
-- Email: kevin.macneil@stir.ac.uk
-- Areas of especial interest: the intersection of Buddhism and Creative Writing, the role of narrative in Buddhism, bio-fiction and the life of the Buddha, literature and expediency in Zen Buddhism
-** University of Winchester
+- Research: Intersection of Buddhism and Creative Writing, the role of narrative in Buddhism, bio-fiction and the life of the Buddha, literature and expediency in Zen Buddhism
+- Contact: [[mailto:kevin.macneil@stir.ac.uk][kevin.macneil@stir.ac.uk]]
+** EMAILED University of Winchester
 *** People
-**** Centre for Religion, Reconciliation and Peace
-***** Dr. Mark Owen
-- Mark.Owen@winchester.ac.uk
-- Research: eligions' role in peacebuilding and conflict transformation, conflict assessment and analysis, Buddhism, conflict and peacebuilding, Tibetan Buddhism, Asian politics and development
+**** [[https://www.winchester.ac.uk/research/our-impactful-research/research-in-humanities-and-social-sciences/research-centres-and-networks/centre-for-religion-reconciliation-and-peace/][Centre for Religion, Reconciliation and Peace]]
+***** Professor Mark Owen, Director: Centre for Religion, Reconciliation and Peace
+- Research: Religions' role in peacebuilding and conflict transformation, conflict assessment and analysis, Buddhism, conflict and peacebuilding, Tibetan Buddhism, Asian politics and development
+- Contact: [[mailto:mark.owen@winchester.ac.uk][mark.owen@winchester.ac.uk]]
+* .dump :noexport:ARCHIVE:
+** DONE Department of Anthropology
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-11-20 Sun 15:49
+:ARCHIVE_FILE: ~/Dropbox/ukabs/uni-list/uni-list.org
+:ARCHIVE_OLPATH: University List/University of Durham/People
+:ARCHIVE_CATEGORY: uni-list
+:END:
+** DONE Prof Richard F. Gombrich, Professor Emeritus, Sanskrit 
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-11-20 Sun 16:03
+:ARCHIVE_FILE: ~/Dropbox/ukabs/uni-list/uni-list.org
+:ARCHIVE_OLPATH: University List/University of Oxford/People/Faculty of Asian and Middle Eastern Studies
+:ARCHIVE_CATEGORY: uni-list
+:END:
+- Research: Early Buddhism
+- Contact: [[mailto:richard.gombrich@balliol.ox.ac.uk][richard.gombrich@balliol.ox.ac.uk]]
+# #+latex_class: article
+# #+latex_class_options: [a4paper,10.5pt]
+# #+latex_header: \usepackage[cm]{fullpage}
+# #+latex_header: \setcounter{secnumdepth}{0}
+# #+archive: uni-list.org::* .dump
+# #+latex_header: \usepackage{xcolor}
+# #+latex_header: \usepackage{hyperref}
+# #+latex_header: \hypersetup{colorlinks,breaklinks,allcolors={blue}}
+
+

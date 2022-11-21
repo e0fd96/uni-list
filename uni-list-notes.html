@@ -1,0 +1,1793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <!-- 2022-11-19 Sat 11:34 -->
+  <meta http-equiv="Content-Type" content=
+  "text/html; charset=utf-8" />
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1" />
+  <title>new-buddhist-studies-uni-list-notes</title>
+  <meta name="author" content="Ilmari Koria" />
+  <meta name="generator" content="Org Mode" />
+  <style>
+  <![CDATA[
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+  ]]>
+  </style>
+</head>
+<body>
+  <div id="content" class="content">
+    <h1 class="title">new-buddhist-studies-uni-list-notes</h1>
+    <p><b>Note to reader</b>: The information below will be
+    constantly updated. Please contact Ilmari
+    (“ilmarikoria@gmail.com”) for further information.<br /></p>
+    <ul class="org-ul">
+      <li>Link to download this page (warning: instant download):
+      <a href=
+      "https://www.dropbox.com/s/mzd2vwkggmcauoi/uni_list.html?dl=1">
+      https://www.dropbox.com/s/mzd2vwkggmcauoi/uni_list.html?dl=1</a><br />
+      </li>
+    </ul>
+    <div id="outline-container-orgfd4f2b9" class="outline-2">
+      <h2 id="orgfd4f2b9">uni-list-contact</h2>
+      <div class="outline-text-2" id="text-orgfd4f2b9">
+        <table border="2" cellspacing="0" cellpadding="6" rules=
+        "groups" frame="hsides">
+          <colgroup>
+            <col class="org-left" />
+            <col class="org-left" />
+            <col class="org-left" />
+            <col class="org-left" />
+            <col class="org-left" />
+            <col class="org-left" />
+          </colgroup>
+          <thead>
+            <tr>
+              <th scope="col" class="org-left">university</th>
+              <th scope="col" class="org-left">contact name</th>
+              <th scope="col" class="org-left">contact email</th>
+              <th scope="col" class="org-left">note</th>
+              <th scope="col" class="org-left">contacted</th>
+              <th scope="col" class="org-left">response</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="org-left">Edinburgh University</td>
+              <td class="org-left">Naomi Appleton</td>
+              <td class="org-left">nappleto@staffmail.ed.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">Lancaster University</td>
+              <td class="org-left">Hiroko Kawanami</td>
+              <td class="org-left">h.kawanami@lancaster.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">South Wales</td>
+              <td class="org-left">Nick Swann</td>
+              <td class="org-left">nick.Swann@newport.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">UCL</td>
+              <td class="org-left">Joanna Cook</td>
+              <td class="org-left">joanna.cook@ucl.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">University of Bristol</td>
+              <td class="org-left">Rupert Gethin</td>
+              <td class="org-left">thrmlg@bristol.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">Manchester</td>
+              <td class="org-left">Gregory Scott</td>
+              <td class="org-left">
+              gregory.scott@manchester.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">University of Chester</td>
+              <td class="org-left">Wendy Dossett</td>
+              <td class="org-left">w.dossett@chester.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">University of Durham</td>
+              <td class="org-left">James, S.P.</td>
+              <td class="org-left">s.p.james@durham.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">University of Aberdeen</td>
+              <td class="org-left">Martin Mills</td>
+              <td class="org-left">m.a.mills@abdn.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">University of Kent</td>
+              <td class="org-left">Leslie de Vries</td>
+              <td class="org-left">l.devries@kent.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">University of Stirling</td>
+              <td class="org-left">Kevin MacNeil</td>
+              <td class="org-left">kevin.macneil@stir.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">Cardiff</td>
+              <td class="org-left">Max Deeg</td>
+              <td class="org-left">DeegM1@cardiff.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">Kings College London</td>
+              <td class="org-left">Kate Crosby</td>
+              <td class="org-left">henrietta.crosby@kcl.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">Goldsmiths</td>
+              <td class="org-left">Ronit Yoeli-Tlalim</td>
+              <td class="org-left">r.yoeli-tlalim@gold.ac.uk</td>
+              <td class="org-left">&nbsp;</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">Bath Spa University</td>
+              <td class="org-left">Mahinda Deegalle</td>
+              <td class="org-left">m.deegalle@bathspa.ac.uk</td>
+              <td class="org-left">Requested to remove
+              information.</td>
+              <td class="org-left">true</td>
+              <td class="org-left">true</td>
+            </tr>
+            <tr>
+              <td class="org-left">Leeds</td>
+              <td class="org-left">Martin Seeger</td>
+              <td class="org-left">M.Seeger@leeds.ac.uk</td>
+              <td class="org-left">Info gathered from website (not
+              sure if need permission?).</td>
+              <td class="org-left">true</td>
+              <td class="org-left">false</td>
+            </tr>
+            <tr>
+              <td class="org-left">SOAS</td>
+              <td class="org-left">Lucia Dolce</td>
+              <td class="org-left">ld16@soas.ac.uk</td>
+              <td class="org-left">Info gathered from website (not
+              sure if need permission?).</td>
+              <td class="org-left">true</td>
+              <td class="org-left">false</td>
+            </tr>
+            <tr>
+              <td class="org-left">University of Winchester</td>
+              <td class="org-left">Mark Owen</td>
+              <td class="org-left">mark.owen@winchester.ac.uk</td>
+              <td class="org-left">Info gathered from website (not
+              sure if need permission?).</td>
+              <td class="org-left">true</td>
+              <td class="org-left">false</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div id="outline-container-org2dfb0da" class="outline-2">
+      <h2 id="org2dfb0da">responses (edited)</h2>
+      <div class="outline-text-2" id="text-org2dfb0da"></div>
+      <div id="outline-container-org9dcfc4c" class="outline-3">
+        <h3 id="org9dcfc4c">Cardiff University</h3>
+        <div class="outline-text-3" id="text-org9dcfc4c"></div>
+        <div id="outline-container-orge410e77" class="outline-4">
+          <h4 id="orge410e77">People</h4>
+          <div class="outline-text-4" id="text-orge410e77"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org1e4dc0e" name="org1e4dc0e"></a>School of
+              History, Archaeology and Religion<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org01af637" name=
+                  "org01af637"></a>Professor Max Deeg, Professor in
+                  Buddhist Studies, Head of Religion<br />
+                  <div class="outline-text-6" id="text-org01af637">
+                    <ul class="org-ul">
+                      <li>Email: deegm1@cardiff.ac.uk<br /></li>
+                      <li>Research: Buddhist history, particularly
+                      the historical connection between India,
+                      Central Asia and China; Chinese Buddhist
+                      pilgrims.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org3ce5eb7" name="org3ce5eb7"></a>Dr. Ugo
+                  Dessi<br />
+                  <div class="outline-text-6" id="text-org3ce5eb7">
+                    <ul class="org-ul">
+                      <li>Research: Modern East-Asian Buddhism and
+                      Buddhist groups.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-org751a996" class="outline-4">
+          <h4 id="org751a996">Courses</h4>
+          <div class="outline-text-4" id="text-org751a996"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orge70905a" name=
+              "orge70905a"></a>Undergraduate level<br />
+              <div class="outline-text-5" id="text-orge70905a">
+                <ul class="org-ul">
+                  <li>Introduction to Buddhism (first
+                  year),<br /></li>
+                  <li>“Buddhism: The first 1000 years” (a
+                  historical overview of that period) [2nd
+                  year]<br /></li>
+                  <li>We also offer Sanskrit as a scriptural
+                  language (taught by Dr. Simon
+                  Brodbeck).<br /></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-org7318c23" class="outline-3">
+        <h3 id="org7318c23">University of Winchester</h3>
+        <div class="outline-text-3" id="text-org7318c23"></div>
+        <div id="outline-container-org2561b8e" class="outline-4">
+          <h4 id="org2561b8e">People</h4>
+          <div class="outline-text-4" id="text-org2561b8e"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orgdc382e8" name="orgdc382e8"></a>Centre for
+              Religion, Reconciliation and Peace<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org820254d" name="org820254d"></a>Dr. Mark
+                  Owen<br />
+                  <div class="outline-text-6" id="text-org820254d">
+                    <ul class="org-ul">
+                      <li>Mark.Owen@winchester.ac.uk<br /></li>
+                      <li>Research: eligions’ role in peacebuilding
+                      and conflict transformation, conflict
+                      assessment and analysis, Buddhism, conflict
+                      and peacebuilding, Tibetan Buddhism, Asian
+                      politics and development<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-org4e7600c" class="outline-3">
+        <h3 id="org4e7600c">University of Edinburgh</h3>
+        <div class="outline-text-3" id="text-org4e7600c"></div>
+        <div id="outline-container-org40f256a" class="outline-4">
+          <h4 id="org40f256a">People</h4>
+          <div class="outline-text-4" id="text-org40f256a"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org944e7ab" name="org944e7ab"></a>College of
+              Arts, Humanities and Social Sciences, more
+              information here: <a href=
+              "https://www.ed.ac.uk/buddhist-studies">https://www.ed.ac.uk/buddhist-studies</a><br />
+
+              <ul class="org-ul">
+                <li>
+                  <a id="org67475d5" name="org67475d5"></a>Dr.
+                  Naomi Appleton, Senior Lecturer in Asian
+                  Religions<br />
+                  <div class="outline-text-6" id="text-org67475d5">
+                    <ul class="org-ul">
+                      <li>Religious Studies, School of
+                      Divinity<br /></li>
+                      <li>Resesarch interests: Early Indian
+                      Buddhism including the intersection with
+                      Brahmanical Hindu and Jain traditions,
+                      Buddhist narrative especially in Indian
+                      literature and art, Theravada
+                      Buddhism.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org9f13543" name="org9f13543"></a>Dr. Ian
+                  Astley, Senior Lecturer in Japanese<br />
+                  <div class="outline-text-6" id="text-org9f13543">
+                    <ul class="org-ul">
+                      <li>Asian Studies, School of Literatures,
+                      Languages and Cultures<br /></li>
+                      <li>Research interests: The Shingon Buddhist
+                      tradition in Japan and its Chinese
+                      antecedents; Japanese and Chinese religions
+                      and philosophy, especially
+                      Buddhism.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org9b51126" name="org9b51126"></a>Prof.
+                  Joachim Gentz, Chair in Chinese Philosophy and
+                  Religion<br />
+                  <div class="outline-text-6" id="text-org9b51126">
+                    <ul class="org-ul">
+                      <li>Asian Studies, School of Literatures,
+                      Languages and Cultures<br /></li>
+                      <li>Research interests: Chinese philosophy
+                      and religions, text and commentary, ritual
+                      and divination, and theories of cultural and
+                      religious studies.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org377747f" name="org377747f"></a>Dr Halle
+                  O’Neal, Reader in Japanese Buddhist Art<br />
+                  <div class="outline-text-6" id="text-org377747f">
+                    <ul class="org-ul">
+                      <li>History of Art, Edinburgh College of
+                      Art<br /></li>
+                      <li>Research interests: Medieval Japanese
+                      art, including themes such as word and image,
+                      relics and reliquaries, invisibility in
+                      visual and material culture, reuse and
+                      recycling, performativity, and the
+                      spectacular visualizations of
+                      embodiment.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org746b726" name="org746b726"></a>Prof.
+                  Jonathan Spencer, Regius Professor of South Asian
+                  Language, Culture and Society<br />
+                  <div class="outline-text-6" id="text-org746b726">
+                    <ul class="org-ul">
+                      <li>Social Anthropology<br /></li>
+                      <li>Research interests: Religion and
+                      politics, Sri Lanka, South and Southeast
+                      Asia, Buddhism, war and peace.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-orga4dfae3" class="outline-4">
+          <h4 id="orga4dfae3">Courses</h4>
+          <div class="outline-text-4" id="text-orga4dfae3">
+            <ul class="org-ul">
+              <li>The main undergraduate programmes with the option
+              of significant Buddhist Studies courses are:<br />
+                <ul class="org-ul">
+                  <li>MA Religious Studies (4 year undergraduate
+                  programme, School of Divinity)<br /></li>
+                  <li>MA Chinese and MA Japanese (4 year
+                  undergraduate programmes, Asian
+                  Studies)<br /></li>
+                  <li>though Anthropology and Art History also have
+                  some relevant optional courses.<br /></li>
+                  <li>Courses on offer vary year on year, and are
+                  often available across programmes outside their
+                  “home” School.<br /></li>
+                </ul>
+              </li>
+              <li>At postgraduate level there is a taught masters
+              (MSc) in Religious Studies, and research degrees
+              (MScR, PhD) available working with any of the people
+              noted above.<br /></li>
+              <li>Please contact individual members of staff to
+              discuss this.<br /></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="outline-container-org614b733" class="outline-3">
+        <h3 id="org614b733">Lancaster University</h3>
+        <div class="outline-text-3" id="text-org614b733"></div>
+        <div id="outline-container-orgc3596de" class="outline-4">
+          <h4 id="orgc3596de">People</h4>
+          <div class="outline-text-4" id="text-orgc3596de"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orga146592" name="orga146592"></a>Department
+              of Politics, Philosophy and Religion<br />
+              <ul class="org-ul">
+                <li><a id="org1de40ab" name="org1de40ab"></a>Dr.
+                Hiroko Kawanami<br /></li>
+                <li><a id="org8bf55e4" name="org8bf55e4"></a>Dr.
+                Anderson Jeremiah<br /></li>
+                <li><a id="orgf10768a" name=
+                "orgf10768a"></a>Professor Chakravarthi
+                Ram-Prasad<br /></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-orge59fb3d" class="outline-4">
+          <h4 id="orge59fb3d">Courses</h4>
+          <div class="outline-text-4" id="text-orge59fb3d">
+            <ul class="org-ul">
+              <li>RST 100, ‘Buddhism section’ in World Religions
+              for Part One (1st year students in RS)<br /></li>
+              <li>PPR 252, Buddhism and Modernity in Asian
+              Societies (2nd year core module)<br /></li>
+              <li>PPR 354, Reading Buddhism (3rd year and MA
+              Students)<br /></li>
+              <li>PPR 350, Indian Religious and Philosophical
+              Thought<br /></li>
+              <li>PPR 239, Indian Politics, Society and
+              Religion<br /></li>
+              <li>PPR 253, Hinduism in the Modern World<br /></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="outline-container-orgf2b93dd" class="outline-3">
+        <h3 id="orgf2b93dd">University of Manchester</h3>
+        <div class="outline-text-3" id="text-orgf2b93dd"></div>
+        <div id="outline-container-org9c48336" class="outline-4">
+          <h4 id="org9c48336">People</h4>
+          <div class="outline-text-4" id="text-org9c48336"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org86e49a1" name="org86e49a1"></a>School of
+              Social Sciences<br />
+              <ul class="org-ul">
+                <li><a id="orga235482" name="orga235482"></a>Dr.
+                Erica Baffelli <a href=
+                "https://www.research.manchester.ac.uk/portal/erica.baffelli.html">
+                https://www.research.manchester.ac.uk/portal/erica.baffelli.html</a><br />
+                </li>
+                <li><a id="org6c6d42a" name="org6c6d42a"></a>Dr.
+                Gregory Adam Scott <a href=
+                "https://www.research.manchester.ac.uk/portal/gregory.scott.html">
+                https://www.research.manchester.ac.uk/portal/gregory.scott.html</a><br />
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-org53c9289" class="outline-4">
+          <h4 id="org53c9289">Courses</h4>
+          <div class="outline-text-4" id="text-org53c9289">
+            <ul class="org-ul">
+              <li>JAPA20221, History of Religion in
+              Japan<br /></li>
+              <li>CHIN30312, Religious and Political Ideologies of
+              Modern Chian<br /></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="outline-container-orga23dafa" class="outline-3">
+        <h3 id="orga23dafa">University of South Wales</h3>
+        <div class="outline-text-3" id="text-orga23dafa"></div>
+        <div id="outline-container-orgdfa0a45" class="outline-4">
+          <h4 id="orgdfa0a45">People</h4>
+          <div class="outline-text-4" id="text-orgdfa0a45"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org4599ee1" name="org4599ee1"></a>Faculty of
+              Business and Society<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="orgaf8740b" name="orgaf8740b"></a>Dr Nick
+                  Swann, Senior Lecturer and Course Leader<br />
+                  <div class="outline-text-6" id="text-orgaf8740b">
+                    <ul class="org-ul">
+                      <li>nick.swann@southwales.ac.uk<br /></li>
+                      <li>Research: Tibetan Religion, Anthropology
+                      of Religion, Buddhist Ethics, Digital
+                      Buddhism.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org76375e8" name="org76375e8"></a>Dr Sarah
+                  Shaw, Khyentse Foundation Reader in Buddhist
+                  Studies<br />
+                  <div class="outline-text-6" id="text-org76375e8">
+                    <ul class="org-ul">
+                      <li>sarah.shaw@southwales.ac.uk<br /></li>
+                      <li>Research: Pāli Buddhist narrative and
+                      meditative literature; Southeast Asian ritual
+                      and chant; Abhidhamma.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org5e2f7a2" name="org5e2f7a2"></a>Dr
+                  Warren Todd, Associate Lecturer<br />
+                  <div class="outline-text-6" id="text-org5e2f7a2">
+                    <ul class="org-ul">
+                      <li>warren.todd@southwales.ac.uk<br /></li>
+                      <li>Research: Buddhist Philosophy, Buddhist
+                      Ethics, Comparative Ethics &amp;
+                      Philosophy.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-org6c8b104" class="outline-4">
+          <h4 id="org6c8b104">Courses</h4>
+          <div class="outline-text-4" id="text-org6c8b104"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orgdac14d2" name="orgdac14d2"></a>School of
+              Humanities and Social Sciences<br />
+              <div class="outline-text-6" id="text-orgdac14d2">
+                <ul class="org-ul">
+                  <li>MA Buddhist Studies<br />
+                    <ul class="org-ul">
+                      <li>Buddhist Ethics<br /></li>
+                      <li>Buddhist Philosophy<br /></li>
+                      <li>Buddhist Meditation and
+                      Psychology<br /></li>
+                      <li>Pali Language<br /></li>
+                      <li>Distance learning, part-time (two or
+                      three year options).<br /></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-orgabb049a" class="outline-3">
+        <h3 id="orgabb049a">University College London</h3>
+        <div class="outline-text-3" id="text-orgabb049a"></div>
+        <div id="outline-container-org31b0bd3" class="outline-4">
+          <h4 id="org31b0bd3">People</h4>
+          <div class="outline-text-4" id="text-org31b0bd3"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orgc0a3319" name="orgc0a3319"></a>UCL,
+              Department of Anthropology<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="orgedc9695" name="orgedc9695"></a>Dr.
+                  Joanna Cook, Reader in Medical Anthropology<br />
+                  <div class="outline-text-6" id="text-orgedc9695">
+                    <ul class="org-ul">
+                      <li>Research: Buddhism, mental health,
+                      mindfulness, monasticism, gender, Thailand,
+                      UK, the anthropology of ethics.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-org47abd25" class="outline-3">
+        <h3 id="org47abd25">University of Bristol</h3>
+        <div class="outline-text-3" id="text-org47abd25"></div>
+        <div id="outline-container-orga90cbbe" class="outline-4">
+          <h4 id="orga90cbbe">People</h4>
+          <div class="outline-text-4" id="text-orga90cbbe"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org1cd8ead" name="org1cd8ead"></a>Department
+              of Religion and Theology<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org5938db4" name="org5938db4"></a>Prof.
+                  Rupert Gethin, Professor of Buddhist
+                  Studies<br />
+                  <div class="outline-text-6" id="text-org5938db4">
+                    <ul class="org-ul">
+                      <li>email:
+                      rupert.gethin(at)bristol.ac.uk<br /></li>
+                      <li>Research: Early Buddhist literature, the
+                      history and development of Buddhist thought
+                      in the Nikayas and Pali commentaries, Indian
+                      Buddhist meditation, Abhidharma.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="orge97fedf" name="orge97fedf"></a>Dr. Rita
+                  Langer, Senior Lecturer in Buddhist Studies<br />
+                  <div class="outline-text-6" id="text-orge97fedf">
+                    <ul class="org-ul">
+                      <li>email:
+                      rita.langer(at)bristol.ac.uk<br /></li>
+                      <li>Research: Research: Merit in the early
+                      Pali sources; Buddhist ritual and its origin
+                      (in South and South East Asia, particularly
+                      Sri Lanka); Food and Cosmology).<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org06568dd" name="org06568dd"></a>Dr.
+                  Benedetta Lomi, Lecturer in East Asian
+                  Religions<br />
+                  <div class="outline-text-6" id="text-org06568dd">
+                    <ul class="org-ul">
+                      <li>email: b.lomi(at)bristol.ac.uk<br /></li>
+                      <li>Research: The History of Japanese
+                      Buddhism, Japanese Esoteric Buddhism,
+                      Esoteric Buddhism in East Asia, Buddhist
+                      Medicine, Healing Rituals, Buddhist
+                      Iconography.“<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-org172f1c6" class="outline-4">
+          <h4 id="org172f1c6">Courses</h4>
+          <div class="outline-text-4" id="text-org172f1c6">
+            <ul class="org-ul">
+              <li>BA in Religion and Theology (Not all these units
+              will be available in any one year):<br />
+                <ul class="org-ul">
+                  <li>Living Religions East<br /></li>
+                  <li>Religions and Cultural Change in India: from
+                  Indus to Islam<br /></li>
+                  <li>Religion and Material Culture<br /></li>
+                  <li>3000 Years of Chinese Religion<br /></li>
+                  <li>Indian Philosophy<br /></li>
+                  <li>Zen Buddhism<br /></li>
+                  <li>Buddhist Psychology and Mental
+                  Health<br /></li>
+                  <li>Buddhism in Practice<br /></li>
+                  <li>Yoga and Meditation<br /></li>
+                  <li>Introduction to Japanese Religions<br /></li>
+                  <li>The Lotus Sūtra<br /></li>
+                  <li>The Journey to the West<br /></li>
+                  <li>Mahāyāna Literature in East Asia<br /></li>
+                  <li>The Body in East Asian Religions<br /></li>
+                  <li>Sanskrit<br /></li>
+                  <li>Classical Chinese<br /></li>
+                </ul>
+              </li>
+              <li>MA in Religion (Buddhist Studies)[Not all these
+              units will be available in any one year]:<br />
+                <ul class="org-ul">
+                  <li>Buddhism: The Foundations<br /></li>
+                  <li>Buddhism in Practice<br /></li>
+                  <li>Buddhist Psychology and Mental
+                  Health<br /></li>
+                  <li>Yoga and Meditation<br /></li>
+                  <li>Mahāyāna Literature in East Asia<br /></li>
+                  <li>Zen Buddhism<br /></li>
+                  <li>Esoteric Buddhism in East Asia<br /></li>
+                  <li>The Body in East Asian Religions<br /></li>
+                  <li>Sanskrit<br /></li>
+                  <li>Buddhist Sanskrit and Pali<br /></li>
+                  <li>Classical Chinese<br /></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="outline-container-org6ecce38" class="outline-3">
+        <h3 id="org6ecce38">University of Chester</h3>
+        <div class="outline-text-3" id="text-org6ecce38"></div>
+        <div id="outline-container-orga9b5c4c" class="outline-4">
+          <h4 id="orga9b5c4c">People</h4>
+          <div class="outline-text-4" id="text-orga9b5c4c"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org171ccf2" name="org171ccf2"></a>Department
+              of Theology and Religious Studies: Faculty of Arts
+              and Humanities <a href=
+              "https://www1.chester.ac.uk/departments/theology-and-religious-studies">
+              https://www1.chester.ac.uk/departments/theology-and-religious-studies</a><br />
+
+              <ul class="org-ul">
+                <li>
+                  <a id="orgda1710b" name="orgda1710b"></a>Dr
+                  Dhivan Jones, Lecturer in Religious and
+                  Philosophical Studies<br />
+                  <div class="outline-text-6" id="text-orgda1710b">
+                    <ul class="org-ul">
+                      <li>Email:
+                      dhivan.jones@chester.ac.uk<br /></li>
+                      <li>Research: Early Buddhism, Buddhist
+                      philosophy<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org451a517" name="org451a517"></a>Dr Wendy
+                  Dossett, Associate Professor of Religious
+                  Studies<br />
+                  <div class="outline-text-6" id="text-org451a517">
+                    <ul class="org-ul">
+                      <li>Email: w.dossett@chester.ac.uk<br /></li>
+                      <li>Research: Japanese Pure Land Buddhism,
+                      Buddhism and Addiction Recovery<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-orge1ad436" class="outline-4">
+          <h4 id="orge1ad436">Courses</h4>
+          <div class="outline-text-4" id="text-orge1ad436">
+            <ul class="org-ul">
+              <li>Undergraduate courses or modules;<br />
+                <ul class="org-ul">
+                  <li>LEVEL 4 TH4063 Reading Religions: texts
+                  traditions and teachings. (Five sessions on
+                  Buddhist texts).<br /></li>
+                  <li>LEVEL 4 TH5064 Philosophy, Religion and the
+                  Good Life. (Two sessions on Buddhist philosophy,
+                  ancient and modern).<br /></li>
+                  <li>LEVEL 4 TH4065 Introducing Ethics: Food, Sex
+                  and War. (Three sessions on Buddhist
+                  ethics).<br /></li>
+                  <li>LEVEL 5 TH5055 Asian Philosophies: Knowledge,
+                  Liberation and the Self. (Buddhist philosophy a
+                  major component of the course).<br /></li>
+                  <li>LEVEL 6 TH6046 Religion and Culture:
+                  transformations of British religious life
+                  1960-2010 (One session on Buddhism in
+                  Britain)<br /></li>
+                  <li>LEVEL 6 TH6057 Violence and Nationalism (Two
+                  sessions on contemporary Buddhist
+                  nationalism)<br /></li>
+                </ul>
+              </li>
+              <li>Postgraduate taught courses<br />
+                <ul class="org-ul">
+                  <li>TH7046 Buddhist Concepts of Awakening (20
+                  credit MA module in MA Religious Studies
+                  programme).<br /></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="outline-container-org67d574e" class="outline-3">
+        <h3 id="org67d574e">University of Durham</h3>
+        <div class="outline-text-3" id="text-org67d574e"></div>
+        <div id="outline-container-orgede0023" class="outline-4">
+          <h4 id="orgede0023">People</h4>
+          <div class="outline-text-4" id="text-orgede0023"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org173861a" name="org173861a"></a>Department
+              of Anthropology<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="orgb157323" name="orgb157323"></a>Prof.
+                  Michael Carrithers<br />
+                  <div class="outline-text-6" id="text-orgb157323">
+                    <ul class="org-ul">
+                      <li>Research: Currently, public culture in
+                      Germany, particularly East Germany; but has
+                      worked on forest monks in Sri
+                      Lanka.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a id="orga03afa4" name="orga03afa4"></a>Department
+              of Archaeology<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org0b19f2a" name="org0b19f2a"></a>Prof.
+                  Robin Coningham, 2014 UNESCO Chair on
+                  Archaeological Ethics and Practice in Cultural
+                  Heritage<br />
+                  <div class="outline-text-6" id="text-org0b19f2a">
+                    <ul class="org-ul">
+                      <li>Research: The archaeological of South
+                      Asian Buddhism, Lumbini and the Greater
+                      Lumbini Area, Buddhist Heritage protection
+                      and preservation, Caste and the development
+                      of craft specialisation, Indian Ocean and
+                      Arabian Sea Trade.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a id="org2b27e49" name="org2b27e49"></a>Department
+              of Philosophy<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org3753ffd" name="org3753ffd"></a>Dr.
+                  Simon James, Associate Professor<br />
+                  <div class="outline-text-6" id="text-org3753ffd">
+                    <ul class="org-ul">
+                      <li>Research: Environmental philosophy,
+                      Buddhist philosophy (especially
+                      ethics).<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-org7a12362" class="outline-3">
+        <h3 id="org7a12362">King’s College London</h3>
+        <div class="outline-text-3" id="text-org7a12362"></div>
+        <div id="outline-container-org72b7bb8" class="outline-4">
+          <h4 id="org72b7bb8">People</h4>
+          <div class="outline-text-4" id="text-org72b7bb8"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orgf649708" name="orgf649708"></a>Department
+              of Theology &amp; Religious Studies<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org6d2d857" name="org6d2d857"></a>Dr
+                  Ligeia Lugli, Research Associate in Buddhist
+                  Studies<br />
+                  <div class="outline-text-6" id="text-org6d2d857">
+                    <ul class="org-ul">
+                      <li>Email Ligeia.Lugli@kcl.ac.uk<br /></li>
+                      <li>Research: Mahayana Buddhism, corpus
+                      linguistics<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="orgd685517" name="orgd685517"></a>Ven Dr
+                  Thanavuddho Watcharasriroj,Senior Visiting
+                  Research Fellow in Buddhist Studies<br />
+                  <div class="outline-text-6" id="text-orgd685517">
+                    <ul class="org-ul">
+                      <li>Email:
+                      thanavuddho.watcharasriroj@kcl.ac.uk<br /></li>
+                      <li>Research: Early Buddhist
+                      meditation<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org36635dd" name="org36635dd"></a>Dr Amal
+                  Gunasena, Senior Visiting Research Fellow in
+                  Buddhist Studies<br />
+                  <div class="outline-text-6" id="text-org36635dd">
+                    <ul class="org-ul">
+                      <li>Email Amal.Gunasena@kcl.ac.uk<br /></li>
+                      <li>Research: Sinhala Linguistics and
+                      Sinhalese Buddhist Manuscripts<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org8692610" name="org8692610"></a>Prof.
+                  Kate Crosby, Professor of Buddhist Studies<br />
+                  <div class="outline-text-6" id="text-org8692610">
+                    <ul class="org-ul">
+                      <li>email:
+                      henrietta.crosby(at)kcl.ac.uk<br /></li>
+                      <li>Research: Theravada Buddhism; Sanskrit
+                      and Pali language and literature, including
+                      vernacular-Pali mixed literature; Buddhist
+                      practice and traditions of Sri Lanka and
+                      Southeast Asia; Buddhism in Application;
+                      History of Science in Buddhist
+                      contexts.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org28e183d" name="org28e183d"></a>Prof.
+                  Ian Harris, Visiting Professor of Buddhist
+                  Studies<br />
+                  <div class="outline-text-6" id="text-org28e183d">
+                    <ul class="org-ul">
+                      <li>email:
+                      chamkarmon(at)gmail.com|<br /></li>
+                      <li>Research: Buddhism in Cambodia; Buddhism
+                      and Politics; Buddhist Ethics<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org56cec98" name="org56cec98"></a>Dr Kuan
+                  Guang, Ji Xue Gen Research Fellow in Buddhist
+                  Studies<br />
+                  <div class="outline-text-6" id="text-org56cec98">
+                    <ul class="org-ul">
+                      <li>Email: Kuan.Guang(at)kcl.ac.uk<br /></li>
+                      <li>Research: Late imperial Chinese
+                      Buddhism.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org2f614e6" name="org2f614e6"></a>Dr Pyi
+                  Kyaw, Research Fellow in Buddhist Studies<br />
+                  <div class="outline-text-6" id="text-org2f614e6">
+                    <ul class="org-ul">
+                      <li>Email Pyi.Kyaw(at)kcl.ac.uk<br /></li>
+                      <li>Research: Burmese Abhidhamma. Buddhist
+                      ethics.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-org51d3c32" class="outline-3">
+        <h3 id="org51d3c32">University of Kent</h3>
+        <div class="outline-text-3" id="text-org51d3c32"></div>
+        <div id="outline-container-orga4376fa" class="outline-4">
+          <h4 id="orga4376fa">People</h4>
+          <div class="outline-text-4" id="text-orga4376fa"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org1b7b1ae" name="org1b7b1ae"></a>School of
+              European Culture and Languages<br />
+              <ul class="org-ul">
+                <li><a id="org5d33d8b" name="org5d33d8b"></a>Dr.
+                Leslie de Vries<br /></li>
+              </ul>
+            </li>
+            <li>
+              <a id="org3164fbb" name="org3164fbb"></a>School of
+              Anthropology and Conservation<br />
+              <ul class="org-ul">
+                <li><a id="orge4307e1" name="orge4307e1"></a>Dr.
+                Jonathan Mair<br /></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-orgad3526a" class="outline-4">
+          <h4 id="orgad3526a">Courses</h4>
+          <div class="outline-text-4" id="text-orgad3526a">
+            <ul class="org-ul">
+              <li>Undergraduate<br />
+                <ul class="org-ul">
+                  <li>Stage 1:<br />
+                    <ul class="org-ul">
+                      <li>“Hinduism and Buddhism”<br />
+                        <ul class="org-ul">
+                          <li>half of the module devoted to
+                          Buddhism<br /></li>
+                        </ul>
+                      </li>
+                      <li>“Introduction to East Asian Traditions”
+                      (module convenor: Dr Leslie de Vries)<br />
+                        <ul class="org-ul">
+                          <li>one or more sessions on East Asian
+                          Buddhism<br /></li>
+                        </ul>
+                      </li>
+                      <li>“Ethics, Society and the Good Life”
+                      (module convenor: Dr Yvonne Sherwood)<br />
+                        <ul class="org-ul">
+                          <li>one session on Buddhist
+                          ethics<br /></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>Stage 2<br />
+                    <ul class="org-ul">
+                      <li>“Themes in the Study of Asia”<br />
+                        <ul class="org-ul">
+                          <li>one or more sessions on Buddhism and
+                          related topics such as
+                          mindfulness<br /></li>
+                        </ul>
+                      </li>
+                      <li>“Buddhism: The Foundations”<br /></li>
+                    </ul>
+                  </li>
+                  <li>Stage 3<br />
+                    <ul class="org-ul">
+                      <li>“Religion and Japanese Culture” (module
+                      convenor: Dr Leslie de Vries)<br />
+                        <ul class="org-ul">
+                          <li>various sessions on Japanese
+                          Buddhism<br /></li>
+                        </ul>
+                      </li>
+                      <li>“Health, Medicine and the Body in East
+                      Asia” (module convenor: Dr Leslie de
+                      Vries)<br />
+                        <ul class="org-ul">
+                          <li>one or more sessions on
+                          Buddhism<br /></li>
+                        </ul>
+                      </li>
+                      <li>“Critical Issues in the Study of
+                      Buddhism”<br /></li>
+                      <li>“Dissertation” (module convenor: Dr Lois
+                      Lee)<br /></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>Possible to do a MA dissertation in Religious
+              Studies on Buddhism.<br />
+                <ul class="org-ul">
+                  <li>Note: No MA for 2021 academic year, but Dr.
+                  der Vries will include sessions in the module
+                  “Spirituality and Therapy”.<br /></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="outline-container-orgd826ce7" class="outline-3">
+        <h3 id="orgd826ce7">Goldsmiths</h3>
+        <div class="outline-text-3" id="text-orgd826ce7"></div>
+        <div id="outline-container-org03e9e79" class="outline-4">
+          <h4 id="org03e9e79">People</h4>
+          <div class="outline-text-4" id="text-org03e9e79"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org4526b59" name="org4526b59"></a>Department
+              of History<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="orgc5f5353" name="orgc5f5353"></a>Dr.
+                  Ronit Yoeli-Tlalim<br />
+                  <div class="outline-text-6" id="text-orgc5f5353">
+                    <ul class="org-ul">
+                      <li>r.yoeli-tlalim (at) gold.ac.uk<br /></li>
+                      <li>Research: the History of Asian Medicine,
+                      Interactions between Medicine and Buddhism,
+                      the transmission of medical ideas along the
+                      Silk-Roads and the history of early Tibetan
+                      medicine.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-orgf603902" class="outline-4">
+          <h4 id="orgf603902">Courses</h4>
+          <div class="outline-text-4" id="text-orgf603902"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orge167ff2" name="orge167ff2"></a>Department
+              of History<br />
+              <div class="outline-text-5" id="text-orge167ff2">
+                <ul class="org-ul">
+                  <li>Undergraduate:<br />
+                    <ul class="org-ul">
+                      <li>Years 2/3:<br />
+                        <ul class="org-ul">
+                          <li>A Global History of
+                          Buddhism<br /></li>
+                          <li>History of Asian Medicine: From
+                          Manuscripts to YouTube<br /></li>
+                        </ul>
+                      </li>
+                      <li>Year 3:<br />
+                        <ul class="org-ul">
+                          <li>Healing, Magic and Mindfulness on the
+                          Silk Road (Special Subject: open to
+                          University of London students)<br /></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>Postgraduate (MA):<br />
+                    <ul class="org-ul">
+                      <li>Healing, Magic and Mindfulness on the
+                      Silk Road<br /></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-org7708642" class="outline-3">
+        <h3 id="org7708642">University of Aberdeen</h3>
+        <div class="outline-text-3" id="text-org7708642"></div>
+        <div id="outline-container-org93fa356" class="outline-4">
+          <h4 id="org93fa356">People</h4>
+          <div class="outline-text-4" id="text-org93fa356"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org188756f" name="org188756f"></a>School of
+              Social Science<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="orgb94d261" name="orgb94d261"></a>Dr
+                  Martin A. Mills, Senior Lecturer<br />
+                  <div class="outline-text-6" id="text-orgb94d261">
+                    <ul class="org-ul">
+                      <li>Email: m.a.mills(at)abdn.ac.uk<br /></li>
+                      <li>Research: The anthropology of Tibet and
+                      Tibetan-speaking areas, and in particular its
+                      religious and state life (including the
+                      ceremonial nexuses of Tibetan monastic and
+                      state life); the formulation of new ways in
+                      which modern ethnographers of Tibetan regions
+                      can integrate their work with textual
+                      specialists and indigenous scholars to create
+                      an historical anthropology of the
+                      region.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-org6a9aa4d" class="outline-3">
+        <h3 id="org6a9aa4d">University of Stirling</h3>
+        <div class="outline-text-3" id="text-org6a9aa4d"></div>
+        <div id="outline-container-orga6185a3" class="outline-4">
+          <h4 id="orga6185a3">People</h4>
+          <div class="outline-text-4" id="text-orga6185a3"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org48d9168" name="org48d9168"></a>Division of
+              Literature and Languages<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org6f30da7" name="org6f30da7"></a>Kevin
+                  MacNeil, Lecturer in Creative Writing<br />
+                  <div class="outline-text-6" id="text-org6f30da7">
+                    <ul class="org-ul">
+                      <li>Email:
+                      kevin.macneil@stir.ac.uk<br /></li>
+                      <li>Areas of especial interest: the
+                      intersection of Buddhism and Creative
+                      Writing, the role of narrative in Buddhism,
+                      bio-fiction and the life of the Buddha,
+                      literature and expediency in Zen
+                      Buddhism<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="outline-container-orge980290" class="outline-3">
+        <h3 id="orge980290">University of Oxford</h3>
+        <div class="outline-text-3" id="text-orge980290"></div>
+        <div id="outline-container-orgb869aea" class="outline-4">
+          <h4 id="orgb869aea">People</h4>
+          <div class="outline-text-4" id="text-orgb869aea"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orgfc257ea" name="orgfc257ea"></a>Faculty of
+              Oriental Studies<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org6b58df4" name="org6b58df4"></a>Dr.
+                  Cathy Cantwell, Associate Faculty
+                  Member&nbsp;<br />
+                  <div class="outline-text-6" id="text-org6b58df4">
+                    <ul class="org-ul">
+                      <li>email:
+                      catherine.cantwell(at)orinst.ox.ac.uk<br /></li>
+                      <li>Research: Tibetan textual
+                      transmission/development; tantric rituals,
+                      symbolism, art; rNying-ma canonical texts;
+                      Dunhuang and later ritual manuals; Phur-pa
+                      traditions (rNying-ma, Sa-skya, Bon);
+                      bDud-’joms gter-ma tradition.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org82a7478" name="org82a7478"></a>George
+                  FitzHerbert, Departmental Lecturer<br />
+                  <div class="outline-text-6" id="text-org82a7478">
+                    <ul class="org-ul">
+                      <li>email:
+                      george.fitzherbert(at)orinst.ox.ac.uk<br /></li>
+                      <li>Research: The chivalric, shamanic and
+                      tantric Gesar epic tradition.&nbsp; More
+                      broadly, Tibetan political, religious and
+                      cultural history; Cultural relations between
+                      Tibet and Central, South and East Asia; and
+                      the Tibetan language.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="orgd85f123" name="orgd85f123"></a>Prof.
+                  David Gellner, Professor of Social
+                  Anthropology<br />
+                  <div class="outline-text-6" id="text-orgd85f123">
+                    <ul class="org-ul">
+                      <li>email:
+                      david.gellner(at)anthro.ox.ac.uk<br /></li>
+                      <li>Research: Anthropology of South Asia,
+                      East Asia, Buddhism, Hinduism,
+                      cities,&nbsp;ritual, politics, ethnicity,
+                      activism, borderlands, class formation and
+                      cultural change.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org692c140" name="org692c140"></a>Prof.
+                  Richard F. Gombrich, retired<br />
+                  <div class="outline-text-6" id="text-org692c140">
+                    <ul class="org-ul">
+                      <li>email:
+                      richard.gombrich(at)balliol.ox.ac.uk<br /></li>
+                      <li>Research: Early Buddhism<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org60032f6" name="org60032f6"></a>Dr
+                  Robert Mayer, University Research Lecturer<br />
+                  <div class="outline-text-6" id="text-org60032f6">
+                    <ul class="org-ul">
+                      <li>email:
+                      robert.mayer(at)orinst.ox.ac.uk<br /></li>
+                      <li>Research: Early rNying ma and Bon tantric
+                      tradition, Critically editing old Tibetan
+                      texts, Dunhang tantric texts<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org365c135" name="org365c135"></a>Prof.
+                  Ulrike Roesler, Professor of Tibetan and
+                  Himalayan Studies<br />
+                  <div class="outline-text-6" id="text-org365c135">
+                    <ul class="org-ul">
+                      <li>email:
+                      ulrike.roesler@orinst.ox.ac.uk<br /></li>
+                      <li>Research: Literature and religion of the
+                      Veda; Indo-Tibetan Buddhism; history of
+                      bKa’-gdams-pa school; ‘sacred landscapes’ in
+                      literature and ritual practice.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org85c2a5a" name="org85c2a5a"></a>Dr.
+                  Sarah Shaw, Faculty Member<br />
+                  <div class="outline-text-6" id="text-org85c2a5a">
+                    <ul class="org-ul">
+                      <li>email:
+                      sarah.shaw(at)orinst.ox.ac.uk<br /></li>
+                      <li>Research: Early Buddhist (Pali) suttas
+                      and Abhidhamma material on meditation; Early
+                      Buddhist narrative: literary features of
+                      Jatakas and Dhammapada stories; Indian and
+                      Asian influences on British
+                      nineteenth-century writers; modern South and
+                      Southeast Asian Buddhist ritual, chant and
+                      meditation.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org6a4b0b7" name="org6a4b0b7"></a>Dr
+                  Andrew Skilton, Faculties of Theology and
+                  Oriental Faculties<br />
+                  <div class="outline-text-6" id="text-org6a4b0b7">
+                    <ul class="org-ul">
+                      <li>Research: Pali literature and Indian
+                      Mahāyāna texts in Sanskrit (particularly the
+                      Samādhirājasūtra). Orality in Buddhist
+                      literature, literary and other methods of
+                      textual exegesis, Buddhist meditation and
+                      pre-reform meditation in South and Southeast
+                      Asia.&nbsp;<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a id="org408f75c" name="org408f75c"></a>Faculty of
+              Theology and Religion<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="orgb6af47d" name="orgb6af47d"></a>Prof Jan
+                  Westerhoff, Professor of Buddhist
+                  Philosophy<br />
+                  <div class="outline-text-6" id="text-orgb6af47d">
+                    <ul class="org-ul">
+                      <li>email:
+                      jan.westerhoff@theology.ox.ac.uk<br /></li>
+                      <li>Research: Philosophical aspects of the
+                      religious traditions of ancient India.
+                      Buddhist thought (especially Madhyamaka) as
+                      preserved in Sanskrit and Tibetan sources;
+                      Classical Indian philosophy (particularly
+                      Nyāya); Buddhist philosophy, both theoretical
+                      (metaphysics, epistemology, philosophy of
+                      language) and normative aspects
+                      (ethics).<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-orgd07ae44" class="outline-4">
+          <h4 id="orgd07ae44">Courses</h4>
+          <div class="outline-text-4" id="text-orgd07ae44">
+            <ul class="org-ul">
+              <li>BA in Religion and Oriental Studies:<br />
+                <ul class="org-ul">
+                  <li>Introduction to the Study of
+                  Religion<br /></li>
+                  <li>Introduction to a Buddhist Canonical
+                  Language: Pali<br /></li>
+                  <li>Introduction to a Buddhist Canonical
+                  Language: Tibetan<br /></li>
+                  <li>Set Texts in a Buddhist Canonical Language:
+                  Pali<br /></li>
+                  <li>Set Texts in a Buddhist Canonical Language:
+                  Tibetan<br /></li>
+                  <li>Foundations of Buddhism<br /></li>
+                  <li>Buddhism in Space and Time<br /></li>
+                  <li>Further Buddhist Texts: Pali<br /></li>
+                  <li>Further Buddhist Texts: Tibetan<br /></li>
+                </ul>
+              </li>
+              <li>BA in Sanskrit:<br />
+                <ul class="org-ul">
+                  <li>Sanskrit<br /></li>
+                  <li>Pali<br /></li>
+                  <li>Tibetan<br /></li>
+                </ul>
+              </li>
+              <li>MSt in Oriental Studies:<br />
+                <ul class="org-ul">
+                  <li>Tailor-made courses depending on student’s
+                  interest<br /></li>
+                </ul>
+              </li>
+              <li>MPhil in Buddhist Studies:<br />
+                <ul class="org-ul">
+                  <li>Core courses:<br />
+                    <ul class="org-ul">
+                      <li>Sanskrit<br /></li>
+                      <li>Tibetan<br /></li>
+                      <li>Chinese<br /></li>
+                      <li>Aspects of Buddhist Thought and
+                      History<br /></li>
+                      <li>Approaches to the Study of
+                      Buddhism<br /></li>
+                      <li>Readinxg Buddhist Texts in Primary
+                      Languages (Sanskrit, Tibetan,
+                      Chinese)<br /></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>Optional courses:<br />
+                <ul class="org-ul">
+                  <li>The Nature of Religion<br /></li>
+                  <li>The anthropology of Buddhism<br /></li>
+                  <li>Introduction to Buddhist
+                  Philosophy<br /></li>
+                  <li>Pali<br /></li>
+                  <li>History and Civilization of Tibet and the
+                  Himalaya<br /></li>
+                  <li>Advanced Readings in Chinese Buddhist
+                  Texts<br /></li>
+                </ul>
+              </li>
+              <li>MPhil in Classical Indian Religion:<br />
+                <ul class="org-ul">
+                  <li>Sanskrit<br /></li>
+                  <li>Sanskrit religious texts<br /></li>
+                </ul>
+              </li>
+              <li>MPhil in Tibetan and Himalayan Studies:<br />
+                <ul class="org-ul">
+                  <li>Tibetan<br /></li>
+                  <li>Buddhism<br /></li>
+                  <li>Tibetan History and Civilization<br /></li>
+                  <li>Tibetan Buddhism<br /></li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="org-ul">
+              <li>Email: m.deegalle@bathspa.ac.uk<br /></li>
+              <li>Research: Ethics of war, violence and conflict in
+              Buddhist societies<br /></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="outline-container-org9b528bf" class="outline-3">
+        <h3 id="org9b528bf">SOAS</h3>
+        <div class="outline-text-3" id="text-org9b528bf"></div>
+        <div id="outline-container-orga26bb75" class="outline-4">
+          <h4 id="orga26bb75">People</h4>
+          <div class="outline-text-4" id="text-orga26bb75"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="org07b07da" name="org07b07da"></a>Department
+              of Religions and Philosophies<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="orgf37e740" name="orgf37e740"></a>Dr
+                  Antonello Palumbo, Senior Lecturer in the
+                  Religions of China<br />
+                  <div class="outline-text-6" id="text-orgf37e740">
+                    <ul class="org-ul">
+                      <li>Email: ap47@soas.ac.uk<br /></li>
+                      <li>Research: Ideological history of
+                      pre-modern China; Chinese religions, notably
+                      Taoism and Buddhism; history of the Buddhist
+                      canon in China; Manichaeism and Iranian
+                      influences in medieval China; Chinese
+                      cultural relations with Central
+                      Asia<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org8f7f765" name=
+                  "org8f7f765"></a>Professor Ulrich Pagel, Head of
+                  School<br />
+                  <div class="outline-text-6" id="text-org8f7f765">
+                    <ul class="org-ul">
+                      <li>Email: up1@soas.ac.uk<br /></li>
+                      <li>Research: History of Buddhism in Tibet,
+                      Mahāyāna Buddhism, Kanjur Studies, Vinaya,
+                      Religions of Central Asia, Tibetan,
+                      Sanskrit.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="org3dc3e38" name="org3dc3e38"></a>Dr Lucia
+                  Dolce, Numata Reader in Japanese Buddhism<br />
+                  <div class="outline-text-6" id="text-org3dc3e38">
+                    <ul class="org-ul">
+                      <li>Email: ld16@soas.ac.uk<br /></li>
+                      <li>Research: Japanese religious history,
+                      especially the medieval period; Japanese
+                      Tantric Buddhism and the esotericisation of
+                      religious practice; Millenarian writings and
+                      prophecy; Kami-Buddhas
+                      associations<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a id="org298faa8" name="org298faa8"></a>Department
+              of the History of Art and Archaeology<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="orgd0673ea" name="orgd0673ea"></a>Dr
+                  Christian Luczanits, David L. Snellgrove Senior
+                  Lecturer in Tibetan and Buddhist Art<br />
+                  <div class="outline-text-6" id="text-orgd0673ea">
+                    <ul class="org-ul">
+                      <li>Email: cl46@soas.ac.uk<br /></li>
+                      <li>Research: History of art and architecture
+                      of the Himalayan region; Buddhist art of the
+                      western Himalayas; Gandharan art; presenting
+                      and exhibiting Buddhist art; heritage,
+                      preservation and conservation.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="orgeaefa0a" name="orgeaefa0a"></a>Dr Peter
+                  D. Sharrock, Senior Teaching Fellow<br />
+                  <div class="outline-text-6" id="text-orgeaefa0a">
+                    <ul class="org-ul">
+                      <li>Email: ps56@soas.ac.uk<br /></li>
+                      <li>Research: He is now focusing on the
+                      evidence in Indochina for the influence of
+                      tantric or esoteric Buddhism, developed in
+                      the great monasteries of the Ganges valley
+                      and diffused and developed in different ways
+                      through much of Asia.<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div id="outline-container-orgc34c143" class="outline-4">
+          <h4 id="orgc34c143">Courses</h4>
+          <div class="outline-text-4" id="text-orgc34c143">
+            <ul class="org-ul">
+              <li>MA Buddhist Studies<br /></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="outline-container-org8a9649a" class="outline-3">
+        <h3 id="org8a9649a">University of Leeds</h3>
+        <div class="outline-text-3" id="text-org8a9649a"></div>
+        <div id="outline-container-org20e462f" class="outline-4">
+          <h4 id="org20e462f">People</h4>
+          <div class="outline-text-4" id="text-org20e462f"></div>
+          <ul class="org-ul">
+            <li>
+              <a id="orgd5a1346" name="orgd5a1346"></a>School of
+              Languages, Cultures and Societies<br />
+              <ul class="org-ul">
+                <li>
+                  <a id="org23f8775" name=
+                  "org23f8775"></a>Professor Martin Seeger,
+                  Professor of Thai Studies<br />
+                  <div class="outline-text-6" id="text-org23f8775">
+                    <ul class="org-ul">
+                      <li>Email: M.Seeger@leeds.ac.uk<br /></li>
+                      <li>Research: Theravada Buddhism; Thai
+                      Buddhism; modern Thai history; Thai
+                      language<br /></li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="postamble" class="status">
+    <p class="author">Author: Ilmari Koria</p>
+    <p class="email">Email: <a href=
+    "mailto:ilmarikoria@posteo.net">ilmarikoria@posteo.net</a></p>
+    <p class="date">Created: 2022-11-19 Sat 11:34</p>
+    <p class="validation"><a href=
+    "https://validator.w3.org/check?uri=referer">Validate</a></p>
+  </div>
+</body>
+</html>

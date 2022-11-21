@@ -1,0 +1,33 @@
+.done {
+    color: green;
+    font-family: monospace,mono;
+}
+
+.todo {
+    color: red;
+    font-family: monospace,mono;
+}
+
+.todo::before {
+    content: "Status: ";
+    font-family: monospace,mono;
+    color: grey;
+}
+
+.todo::after {
+    content: " -- ";
+    font-family: monospace,mono;
+    color: grey;
+}
+
+.done::before {
+    content: "Status: ";
+    font-family: monospace,mono;
+    color: grey;
+}
+
+.done::after {
+    content: " -- ";
+    font-family: monospace,mono;
+    color: grey;
+}

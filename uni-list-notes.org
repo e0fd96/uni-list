@@ -1,11 +1,8 @@
 #+STARTUP: indent
-#+options: toc:nil num:nil
+#+options: toc:nil num:nil email:t
 #+title:new-buddhist-studies-uni-list-notes
-#+author: Ilmari Koria (ilmarikoria@gmail.com)
-
-*Note to reader*: The information below will be constantly updated. Please contact Ilmari ("ilmarikoria@gmail.com") for further information.
-
- - Link to download this page (warning: instant download): https://www.dropbox.com/s/mzd2vwkggmcauoi/uni_list.html?dl=1
+#+author: Ilmari Koria
+#+email: ilmarikoria@posteo.net
 
 * uni-list-contact
 | university               | contact name       | contact email                  | note                                                       | contacted | response |
