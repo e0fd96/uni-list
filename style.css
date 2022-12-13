@@ -31,3 +31,7 @@
     font-family: monospace,mono;
     color: grey;
 }
+
+.postamble {
+    border-top: 1px solid black;
+}
