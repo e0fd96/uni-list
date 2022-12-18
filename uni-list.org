@@ -4,7 +4,7 @@
 #+author: Ilmari Koria
 #+email: ilmarikoria@posteo.net
 #+html_head: <link rel="stylesheet" type="text/css" href="style.css" />
-#+todo: NOTCONTACTED WAITING RECONTACTED NORESPONSE EMAILED | DONE
+#+todo: NOTCONTACTED WAITING RECONTACTED NORESPONSE EMAILED | DONE DONEFROMWEBSITE
 #+date: {{{time(%b %e %Y)}}}
 
 * Introduction
@@ -12,9 +12,9 @@ This is a list of UK Universities with academics in Buddhist Studies and related
 
 Updates and suggestions can be sent to Ilmari Koria via [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]].
 
-Updated: {{{time(%b %e\, %Y)}}}.
+Last update: _{{{time(%b %e\, %Y)}}}_.
 
-* University List [12/19]
+* University List [18/19]
 ** DONE Cardiff University
 *** People
 **** [[https://www.cardiff.ac.uk/history-archaeology-religion][School of History, Archaeology and Religion]]
@@ -27,30 +27,29 @@ Updated: {{{time(%b %e\, %Y)}}}.
 - /Introduction to Buddhism/ (first year).
 - /Buddhism: The first 1000 years/ (a historical overview of that period) [2nd year]
 - We also offer Sanskrit as a scriptural language (taught by Dr. Simon Brodbeck).
-** RECONTACTED Durham University
+** DONEFROMWEBSITE Durham University
 *** People
 **** [[https://www.durham.ac.uk/departments/academic/archaeology/][Department of Archaeology]]
 ***** Prof Robin Coningham, 2014 UNESCO Chair on Archaeological Ethics and Practice in Cultural Heritage 
-- Research: The archaeological of South Asian Buddhism, Lumbini and the Greater Lumbini Area, Buddhist Heritage protection and preservation, Caste and the development of craft specialisation, Indian Ocean and Arabian Sea Trade.
+- Research: Archaeological Ethics and Practice in Cultural Heritage; Later Prehistory and Early Historic archaeology of Southern Asia (from Iran to Myanmar); Urbanisation; Archaeological visibility of Buddhism; Caste and the development of craft specialisation; Politics, identity and archaeology; International cultural resource management; UNESCO and World Heritage; Post-disaster archaeology; Post-conflict archaeology; Sustainable pilgrimage; Indian Ocean and Arabian Sea Trade
 - Contact: [[mailto:r.a.e.coningham@durham.ac.uk][r.a.e.coningham@durham.ac.uk]]
 **** [[https://www.durham.ac.uk/departments/academic/philosophy/contact-us/][Department of Philosophy]]
 ***** Professor Simon P. James, Professor/DEC Chair 
-- Research: Environmental philosophy, Buddhist philosophy (especially ethics).
-- Contact: [[https://www.durham.ac.uk/departments/academic/philosophy/contact-us/][via department contact form]].
+- Research: Environmental philosophy; Existential phenomenology; Buddhist philosophy.
+- Contact: [[https://www.durham.ac.uk/departments/academic/philosophy/contact-us/][via departmental contact form]].
 
-** RECONTACTED Goldsmiths, University of London
+** DONEFROMWEBSITE Goldsmiths, University of London
 *** People
 **** [[https://www.gold.ac.uk/history/][Department of History]]
 ***** Dr Ronit Yoeli-Tlalim, Reader
-- Research: the History of Asian Medicine, Interactions between Medicine and Buddhism, the transmission of medical ideas along the Silk-Roads and the history of early Tibetan medicine.
+- Research: History of Asian Medicine; Interactions between Medicine and Buddhism; Transmission of medical ideas along the Silk-Roads; History of early Tibetan medicine (Dunhuang studies).
 - Contact: [[mailto:r.yoeli-tlalim@gold.ac.uk][r.yoeli-tlalim@gold.ac.uk]]
 *** Courses
 ***** Undergraduate
-     - /A Global History of Buddhism/
-     - /History of Asian Medicine: From Manuscripts to YouTube/
-     - /Healing, Magic and Mindfulness on the Silk Road/ (Special Subject: open to University of London students)
-***** Postgraduate
-   - /Healing, Magic and Mindfulness on the Silk Road/
+- /Global History of Buddhism/
+- /History of Asian Medicine: From Manuscripts to YouTube/
+- /Bodies and Drugs: A Global History of Medicine/
+- /Medicine on the Silk Roads: Transitions and Transmitions/
 ** DONE King's College London
 *** People
 **** [[https://www.kcl.ac.uk/trs][Department of Theology & Religious Studies]]
@@ -74,7 +73,7 @@ Updated: {{{time(%b %e\, %Y)}}}.
 - Research: Gender and Buddhism, dissemination of knowledge and moral values, social justice and wellbeing, charismatic power(s) of monastic practitioners, and more recently on Buddhist orthodoxy and how heretical monks are created in Myanmar.
 - Contact: [[mailto:h.kawanami@lancaster.ac.uk][h.kawanami@lancaster.ac.uk]]
 *** Courses
- - Note: Buddhist studies is currently being phased out at Department of Politics, Philosophy and Religion.
+ - Note: Buddhist studies is currently being phased out at the Department of Politics, Philosophy and Religion.
 **** Undergraduate
 - /The Power of the Past: Religion and Politics in South Asia/ (Bihani Sarkar)
 - /Indian Religious and Philosophical Thought/ (Ram-Prasad or Brian Black) 
@@ -86,7 +85,7 @@ Updated: {{{time(%b %e\, %Y)}}}.
 ***** Dr Joanna Cook, Reader in Medical Anthropology
 - Research: Buddhism, mental health, mindfulness, monasticism, gender, Thailand, UK, the anthropology of ethics. 
 - Contact: [[mailto:joanna.cook@ucl.ac.uk][joanna.cook@ucl.ac.uk]]
-** RECONTACTED University of Aberdeen
+** DONE University of Aberdeen
 *** People
 **** [[https://www.abdn.ac.uk/socsci/][School of Social Science]]
 ***** Dr Martin A. Mills, Senior Lecturer
@@ -197,13 +196,13 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
 - /Religion and Japanese Culture/
 - /Health, Medicine and the Body in East Asia/
  
-** RECONTACTED University of Leeds
+** DONEFROMWEBSITE University of Leeds
 *** People
 **** [[https://ahc.leeds.ac.uk/languages][School of Languages, Cultures and Societies]]
 ***** Professor Martin Seeger, Professor of Thai Studies
-- Research: Theravada Buddhism; Thai Buddhism; modern Thai history; Thai language 
+- Research: Theravada Buddhism; Thai Buddhism; modern Thai history; Thai language. 
 - Contact: [[mailto:m.seeger@leeds.ac.uk][m.seeger@leeds.ac.uk]]
-** RECONTACTED University of London, School of Oriental and African Studies (SOAS)
+** WAITING University of London, School of Oriental and African Studies (SOAS)
 - =2022-11-26 Sat Waiting for update by Dr Travagnin=
 *** People
 **** [[https://www.soas.ac.uk/about/schools-departments-and-sections/department-religions-and-philosophies][Department of Religions and Philosophies]]
@@ -272,37 +271,38 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
  - MPhil in Buddhist Studies
  - MPhil in Classical Indian Religion
  - MPhil in Tibetan and Himalayan Studies
-** RECONTACTED University of South Wales
+** DONEFROMWEBSITE University of South Wales
 *** People
 **** [[https://www.southwales.ac.uk/courses/faculty/FCI/?faculty_title=Faculty+of+Creative+Industries][Faculty of Creative Industries]]
 ***** Dr Nick Swann, Senior Lecturer and Course Leader
-- Research: Tibetan Religion, Anthropology of Religion, Buddhist Ethics, Digital Buddhism.
+- Research: Tibetan Religion; Anthropology of Religion; Buddhist Ethics; Digital Buddhism.
 - Contact: [[mailto:nick.swann@southwales.ac.uk][nick.swann@southwales.ac.uk]]
 ***** Dr Sarah Shaw, Khyentse Foundation Reader in Buddhist Studies
 - Research: Pāli Buddhist narrative and meditative literature; Southeast Asian ritual and chant; Abhidhamma.
 - Contact: [[mailto:sarah.shaw@southwales.ac.uk][sarah.shaw@southwales.ac.uk]]
-***** Dr Warren Todd, Associate Lecturer
-- Research: Buddhist Philosophy, Buddhist Ethics, Comparative Ethics & Philosophy.
+***** Dr Warren Todd, Visiting Lecturer in Buddhist Studies
+- Research: Buddhist Philosophy; Buddhist Ethics; Comparative Ethics & Philosophy.
 - Contact: [[mailto:warren.todd@southwales.ac.uk][warren.todd@southwales.ac.uk]]
 *** Courses
 **** Postgraduate
-- MA Buddhist Studies
+- MA Buddhist Studies (Part-time distance learning)
+  - /Buddhist Traditions/
+  - /Buddhist Meditation and Psychology/
   - /Buddhist Ethics/
   - /Buddhist Philosophy/
-  - /Buddhist Meditation and Psychology/
   - /Pali Language/
-  - Distance learning, part-time (two or three year options).
+  - /Dissertation in Buddhist Studies/
 ** DONE University of Stirling
 *** People
 **** [[https://www.stir.ac.uk/about/faculties/arts-humanities/literature-and-languages/][Division of Literature and Languages]]
 ***** Mr Kevin MacNeil, Lecturer in Creative Writing
 - Research: The intersection of Buddhism and literature, recent and contemporary literature of the Scottish Highlands and Islands, Buddhism (Theravada and Mahayana, but especially interested in Zen), Scottish Literature, poetry and prose of the Hebrides, contemporary novels, creative writing, playwriting, screenwriting, poetry, Buddhist literature, the connections between physical activity and creativity.
 - Contact: [[mailto:kevin.macneil@stir.ac.uk][kevin.macneil@stir.ac.uk]]
-** RECONTACTED University of Winchester
+** DONEFROMWEBSITE University of Winchester
 *** People
 **** [[https://www.winchester.ac.uk/research/our-impactful-research/research-in-humanities-and-social-sciences/research-centres-and-networks/centre-for-religion-reconciliation-and-peace/][Centre for Religion, Reconciliation and Peace]]
 ***** Professor Mark Owen, Director: Centre for Religion, Reconciliation and Peace
-- Research: Religions' role in peacebuilding and conflict transformation, conflict assessment and analysis, Buddhism, conflict and peacebuilding, Tibetan Buddhism, Asian politics and development
+- Research: Religions' role in peacebuilding and conflict transformation; conflict assessment and analysis; Buddhism, conflict and peacebuilding; Tibetan Buddhism; Asian politics and development.
 - Contact: [[mailto:mark.owen@winchester.ac.uk][mark.owen@winchester.ac.uk]]
 * .dump :noexport:ARCHIVE:
 ** DONE Department of Anthropology
