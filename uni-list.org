@@ -3,9 +3,8 @@
 #+title: Buddhist Studies in UK Universities -- WIP List
 #+author: Ilmari Koria
 #+email: ilmarikoria@posteo.net
-#+html_head: <link rel="stylesheet" type="text/css" href="style.css" />
-#+todo: NOTCONTACTED WAITING RECONTACTED NORESPONSE EMAILED | DONE DONEFROMWEBSITE
 #+date: {{{time(%b %e %Y)}}}
+
 
 * Introduction
 This is a list of UK Universities with academics in Buddhist Studies and related areas providing their research interests. It also includes BA and MA programmes or modules in Buddhist studies, (including modules that have a significant Buddhist content). Also included is an indication of UK course provision for the learning of Sanskrit, Pali and Tibetan languages, as these are largely engaged in for the purpose of research or reading of Buddhist texts. Although not specified separately, where academic staff have the relevant expertise, proposals for doctoral research in Buddhist Studies may be welcomed.
@@ -14,8 +13,150 @@ Updates and suggestions can be sent to Ilmari Koria via [[mailto:ilmarikoria@pos
 
 Last update: _{{{time(%b %e\, %Y)}}}_.
 
-* University List [18/19]
-** DONE Cardiff University
+* Table of Contents :noexport:
+:properties:
+:toc:      :include all :ignore this
+:end:
+:contents:
+- [[#introduction][Introduction]]
+- [[#university-list][University List]]
+  - [[#cardiff-university][Cardiff University]]
+    - [[#people][People]]
+      - [[#school-of-history-archaeology-and-religion]]
+        - [[#prof-max-deeg-professor-in-buddhist-studies][Prof Max Deeg, Professor in Buddhist Studies]]
+    - [[#courses][Courses]]
+      - [[#undergraduate][Undergraduate]]
+  - [[#durham-university][Durham University]]
+    - [[#people][People]]
+      - [[#department-of-archaeology]]
+        - [[#prof-robin-coningham-2014-unesco-chair-on-archaeological-ethics-and-practice-in-cultural-heritage][Prof Robin Coningham, 2014 UNESCO Chair on Archaeological Ethics and Practice in Cultural Heritage]]
+      - [[#department-of-philosophy]]
+        - [[#professor-simon-p-james-professordec-chair][Professor Simon P. James, Professor/DEC Chair]]
+  - [[#goldsmiths-university-of-london][Goldsmiths, University of London]]
+    - [[#people][People]]
+      - [[#department-of-history]]
+        - [[#dr-ronit-yoeli-tlalim-reader][Dr Ronit Yoeli-Tlalim, Reader]]
+    - [[#courses][Courses]]
+      - [[#undergraduate][Undergraduate]]
+  - [[#kings-college-london][King's College London]]
+    - [[#people][People]]
+      - [[#department-of-theology--religious-studies]]
+        - [[#dr-karen-obrien-kop-lecturer-in-modern-asian-religions][Dr Karen O'Brien-Kop, Lecturer in Modern Asian Religions]]
+    - [[#courses][Courses]]
+      - [[#undergraduate][Undergraduate]]
+      - [[#graduate-research-reading-group][Graduate Research Reading Group]]
+  - [[#lancaster-university][Lancaster University]]
+    - [[#people][People]]
+      - [[#department-of-politics-philosophy-and-religion]]
+        - [[#prof-chakravarthi-ram-prasad-distinguished-professor-of-comparative-religion-and-philosophy][Prof Chakravarthi Ram-Prasad, Distinguished Professor of Comparative Religion and Philosophy]]
+        - [[#prof-hiroko-kawanami-professor-of-buddhism-and-society][Prof Hiroko Kawanami, Professor of Buddhism and Society]]
+    - [[#courses][Courses]]
+      - [[#undergraduate][Undergraduate]]
+  - [[#university-college-london][University College London]]
+    - [[#people][People]]
+      - [[#department-of-anthropology]]
+        - [[#dr-joanna-cook-reader-in-medical-anthropology][Dr Joanna Cook, Reader in Medical Anthropology]]
+  - [[#university-of-aberdeen][University of Aberdeen]]
+    - [[#people][People]]
+      - [[#school-of-social-science]]
+        - [[#dr-martin-a-mills-senior-lecturer][Dr Martin A. Mills, Senior Lecturer]]
+  - [[#university-of-bristol][University of Bristol]]
+    - [[#people][People]]
+      - [[#department-of-religion-and-theology]]
+        - [[#dr-benedetta-lomi-lecturer-in-east-asian-religions][Dr Benedetta Lomi, Lecturer in East Asian Religions]]
+        - [[#dr-rita-langer-senior-lecturer-in-buddhist-studies][Dr Rita Langer, Senior Lecturer in Buddhist Studies]]
+        - [[#dr-yael-shiri-lecturer-in-religious-studies][Dr Yael Shiri, Lecturer in Religious Studies]]
+    - [[#courses][Courses]]
+      - [[#ba-and-ma-in-religion-and-theology-not-all-these-units-will-be-available-in-any-one-year][BA and MA in Religion and Theology [Not all these units will be available in any one year]:]]
+      - [[#religion-and-theology-research-programmes-mphil-phd][Religion and Theology research programmes (MPhil, PhD)]]
+  - [[#university-of-cambridge][University of Cambridge]]
+    - [[#people][People]]
+      - [[#faculty-of-divinity]]
+        - [[#dr-christopher-v-jones-research-associate-and-affiliated-lecturer][Dr Christopher V Jones, Research Associate and Affiliated Lecturer]]
+      - [[#faculty-of-asian-and-middle-eastern-studies]]
+        - [[#professor-imre-galambos][Professor Imre Galambos]]
+  - [[#university-of-chester][University of Chester]]
+    - [[#people][People]]
+      - [[#department-of-theology-and-religious-studies-faculty-of-arts-and-humanities]]
+        - [[#dr-wendy-dossett-associate-professor-of-religious-studies][Dr Wendy Dossett, Associate Professor of Religious Studies]]
+    - [[#courses][Courses]]
+      - [[#undergraduate][Undergraduate]]
+      - [[#postgraduate][Postgraduate]]
+  - [[#university-of-edinburgh][University of Edinburgh]]
+    - [[#note][Note]]
+    - [[#people][People]]
+      - [[#college-of-arts-humanities-and-social-sciences]]
+        - [[#dr-halle-oneal-reader-in-japanese-art-on-research-leave][Dr Halle O’Neal, Reader in Japanese Art (on research leave)]]
+        - [[#dr-ian-astley-senior-lecturer-in-japanese][Dr Ian Astley, Senior Lecturer in Japanese]]
+        - [[#dr-naomi-appleton-senior-lecturer-in-asian-religions][Dr Naomi Appleton, Senior Lecturer in Asian Religions]]
+        - [[#prof-joachim-gentz-chair-in-chinese-philosophy-and-religion][Prof Joachim Gentz, Chair in Chinese Philosophy and Religion]]
+        - [[#dr-paul-fuller-teaching-fellow-in-buddhist-studies][Dr Paul Fuller, Teaching Fellow in Buddhist Studies]]
+        - [[#dr-takeshi-morisato-森里武-lecturer][Dr Takeshi Morisato 森里武, Lecturer]]
+        - [[#prof-jonathan-spencer-regius-professor-of-south-asian-language-culture-and-society][Prof Jonathan Spencer, Regius Professor of South Asian Language, Culture and Society]]
+        - [[#dr-abigail-macbain-lecturer-of-premodern-japanese-studies][Dr Abigail MacBain, Lecturer of Premodern Japanese Studies]]
+    - [[#courses][Courses]]
+  - [[#university-of-kent][University of Kent]]
+    - [[#people][People]]
+      - [[#department-of-religious-studies]]
+        - [[#dr-leslie-de-vries-lecturer-in-east-asian-studies][Dr Leslie De Vries, Lecturer in East Asian Studies]]
+    - [[#courses][Courses]]
+      - [[#undergraduate][Undergraduate]]
+  - [[#university-of-leeds][University of Leeds]]
+    - [[#people][People]]
+      - [[#school-of-languages-cultures-and-societies]]
+        - [[#professor-martin-seeger-professor-of-thai-studies][Professor Martin Seeger, Professor of Thai Studies]]
+  - [[#university-of-london-school-of-oriental-and-african-studies-soas][University of London, School of Oriental and African Studies (SOAS)]]
+    - [[#people][People]]
+      - [[#department-of-religions-and-philosophies]]
+        - [[#dr-lucia-dolce-numata-reader-in-japanese-buddhism][Dr Lucia Dolce, Numata Reader in Japanese Buddhism]]
+        - [[#professor-ulrich-pagel-head-of-school][Professor Ulrich Pagel, Head of School]]
+      - [[#department-of-the-history-of-art-and-archaeology]]
+        - [[#dr-christian-luczanits-david-l-snellgrove-senior-lecturer-in-tibetan-and-buddhist-art][Dr Christian Luczanits, David L. Snellgrove Senior Lecturer in Tibetan and Buddhist Art]]
+        - [[#dr-peter-d-sharrock-senior-teaching-fellow][Dr Peter D. Sharrock, Senior Teaching Fellow]]
+    - [[#courses][Courses]]
+      - [[#postgraduate][Postgraduate]]
+  - [[#university-of-manchester][University of Manchester]]
+    - [[#people][People]]
+      - [[#school-of-arts-languages-and-cultures]]
+        - [[#dr-gregory-adam-scott-senior-lecturer-in-chinese-culture-and-history][Dr Gregory Adam Scott, Senior Lecturer in Chinese Culture and History]]
+        - [[#prof-erica-baffelli-professor-of-japanese-studies][Prof Erica Baffelli, Professor of Japanese Studies]]
+    - [[#courses][Courses]]
+  - [[#university-of-oxford][University of Oxford]]
+    - [[#people][People]]
+      - [[#faculty-of-asian-and-middle-eastern-studies]]
+        - [[#dr-cathy-cantwell-associate-faculty-member][Dr Cathy Cantwell, Associate Faculty Member]]
+        - [[#dr-robert-mayer-university-research-lecturer][Dr Robert Mayer, University Research Lecturer]]
+        - [[#dr-sarah-shaw-faculty-member][Dr Sarah Shaw, Faculty Member]]
+        - [[#prof-david-gellner-professor-of-social-anthropology][Prof David Gellner, Professor of Social Anthropology]]
+        - [[#prof-kate-crosby-numata-professor-of-buddhist-studies][Prof Kate Crosby, Numata Professor of Buddhist Studies]]
+        - [[#prof-ulrike-roesler-professor-of-tibetan-and-himalayan-studies][Prof Ulrike Roesler, Professor of Tibetan and Himalayan Studies]]
+      - [[#faculty-of-theology-and-religion]]
+        - [[#dr-andrew-skilton-pali-instructor][Dr Andrew Skilton, Pali Instructor]]
+        - [[#prof-jan-westerhoff-professor-of-buddhist-philosophy][Prof Jan Westerhoff, Professor of Buddhist Philosophy]]
+    - [[#courses][Courses]]
+      - [[#undergraduate][Undergraduate]]
+      - [[#postgraduate][Postgraduate]]
+  - [[#university-of-south-wales][University of South Wales]]
+    - [[#people][People]]
+      - [[#faculty-of-creative-industries]]
+        - [[#dr-nick-swann-senior-lecturer-and-course-leader][Dr Nick Swann, Senior Lecturer and Course Leader]]
+        - [[#dr-sarah-shaw-khyentse-foundation-reader-in-buddhist-studies][Dr Sarah Shaw, Khyentse Foundation Reader in Buddhist Studies]]
+        - [[#dr-warren-todd-visiting-lecturer-in-buddhist-studies][Dr Warren Todd, Visiting Lecturer in Buddhist Studies]]
+    - [[#courses][Courses]]
+      - [[#postgraduate][Postgraduate]]
+  - [[#university-of-stirling][University of Stirling]]
+    - [[#people][People]]
+      - [[#division-of-literature-and-languages]]
+        - [[#mr-kevin-macneil-lecturer-in-creative-writing][Mr Kevin MacNeil, Lecturer in Creative Writing]]
+  - [[#university-of-winchester][University of Winchester]]
+    - [[#people][People]]
+      - [[#centre-for-religion-reconciliation-and-peace]]
+        - [[#professor-anna-king][Professor Anna King]]
+        - [[#professor-mark-owen-director-centre-for-religion-reconciliation-and-peace][Professor Mark Owen, Director: Centre for Religion, Reconciliation and Peace]]
+:end:
+
+* University List
+** Cardiff University
 *** People
 **** [[https://www.cardiff.ac.uk/history-archaeology-religion][School of History, Archaeology and Religion]]
 ***** Prof Max Deeg, Professor in Buddhist Studies
@@ -27,7 +168,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - /Introduction to Buddhism/ (first year).
 - /Buddhism: The first 1000 years/ (a historical overview of that period) [2nd year]
 - We also offer Sanskrit as a scriptural language (taught by Dr. Simon Brodbeck).
-** DONEFROMWEBSITE Durham University
+** Durham University
 *** People
 **** [[https://www.durham.ac.uk/departments/academic/archaeology/][Department of Archaeology]]
 ***** Prof Robin Coningham, 2014 UNESCO Chair on Archaeological Ethics and Practice in Cultural Heritage 
@@ -38,7 +179,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - Research: Environmental philosophy; Existential phenomenology; Buddhist philosophy.
 - Contact: [[https://www.durham.ac.uk/departments/academic/philosophy/contact-us/][via departmental contact form]].
 
-** DONEFROMWEBSITE Goldsmiths, University of London
+** Goldsmiths, University of London
 *** People
 **** [[https://www.gold.ac.uk/history/][Department of History]]
 ***** Dr Ronit Yoeli-Tlalim, Reader
@@ -50,7 +191,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - /History of Asian Medicine: From Manuscripts to YouTube/
 - /Bodies and Drugs: A Global History of Medicine/
 - /Medicine on the Silk Roads: Transitions and Transmitions/
-** DONE King's College London
+** King's College London
 *** People
 **** [[https://www.kcl.ac.uk/trs][Department of Theology & Religious Studies]]
 ***** Dr Karen O'Brien-Kop, Lecturer in Modern Asian Religions
@@ -63,7 +204,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - /Theravada Buddhism/
 **** Graduate Research Reading Group
 - /Mind-body philosophies in Asia/
-** DONE Lancaster University 
+** Lancaster University 
 *** People
 **** [[https://www.lancaster.ac.uk/ppr/][Department of Politics, Philosophy and Religion]]
 ***** Prof Chakravarthi Ram-Prasad, Distinguished Professor of Comparative Religion and Philosophy
@@ -79,19 +220,19 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - /Indian Religious and Philosophical Thought/ (Ram-Prasad or Brian Black) 
 - /Buddhism, State and Political Monks/  (Hiroko Kawanami)
 
-** DONE University College London
+** University College London
 *** People 
 **** [[https://www.ucl.ac.uk/anthropology/ucl-anthropology][Department of Anthropology]]
 ***** Dr Joanna Cook, Reader in Medical Anthropology
 - Research: Buddhism, mental health, mindfulness, monasticism, gender, Thailand, UK, the anthropology of ethics. 
 - Contact: [[mailto:joanna.cook@ucl.ac.uk][joanna.cook@ucl.ac.uk]]
-** DONE University of Aberdeen
+** University of Aberdeen
 *** People
 **** [[https://www.abdn.ac.uk/socsci/][School of Social Science]]
 ***** Dr Martin A. Mills, Senior Lecturer
 - Research: The anthropology of Tibet and Tibetan-speaking areas, and in particular its religious and state life (including the ceremonial nexuses of Tibetan monastic and state life); the formulation of new ways in which modern ethnographers of Tibetan regions can integrate their work with textual specialists and indigenous scholars to create an historical anthropology of the region.
 - Contact: [[mailto:m.a.mills@abdn.ac.uk][m.a.mills@abdn.ac.uk]]
-** DONE University of Bristol
+** University of Bristol
 *** People
 **** [[http://www.bristol.ac.uk/religion/][Department of Religion and Theology]]
 ***** Dr Benedetta Lomi, Lecturer in East Asian Religions
@@ -123,7 +264,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 **** Religion and Theology research programmes (MPhil, PhD) 
 - We welcome and encourage applications for postgraduate degrees by research in the area of Buddhist Studies. Our Mphil degree offers both a clear pathway to further research at PhD level, and a gateway to non-academic employment. The Master’s in Philosophy is a standalone, one-year (full-time) or two years (part-time) research degree and can also be studied via distance learning.
 
-** DONE University of Cambridge
+** University of Cambridge
 - Note: As of the date of this posting, Buddhist studies at the University of Cambridge is undergoing changes in personnel, and currently support for graduate Buddhist Studies is marginal.
 *** People
 **** [[https://www.divinity.cam.ac.uk/][Faculty of Divinity]]
@@ -135,7 +276,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 ***** Professor Imre Galambos
 - Research: Medieval China; Dunhuang studies; history of Chinese writing; Chinese manuscripts and epigraphy; contacts between China and Central Asia; Tangut studies; history of the exploration of Central Asia.
 - Contact: [[mailto:iig21@cam.ac.uk][iig21@cam.ac.uk]]
-** DONE University of Chester
+** University of Chester
 *** People
 **** [[https://www1.chester.ac.uk/departments/theology-and-religious-studies][Department of Theology and Religious Studies: Faculty of Arts and Humanities]]
 ***** Dr Wendy Dossett, Associate Professor of Religious Studies
@@ -147,7 +288,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
  - /LEVEL 5 TH5066 Contemporary Asian Traditions/ (Four sessions on Buddhism).
 **** Postgraduate
   - /TH7046 Buddhist Concepts of Awakening/ (20 credit MA module in MA Theology and Religious Studies programme).
-** DONE University of Edinburgh
+** University of Edinburgh
 *** Note
 Prospective students are encouraged to get in touch via the Edinburgh Buddhist Studies (EBS) Network: [[mailto:buddhist.studies@ed.ac.uk][buddhist.studies@ed.ac.uk]].
 *** People
@@ -183,7 +324,7 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
    - Courses on offer vary year on year, and are often available across programmes outside their “home” School.
    - At postgraduate level there is a taught masters (MSc) in Religious Studies, and research degrees (MScR, PhD) available working with any of the people noted above.
      - Please contact individual members of staff to discuss this.
-** DONE University of Kent
+** University of Kent
 *** People
 **** [[https://www.kent.ac.uk/religious-studies/][Department of Religious Studies]]
 ***** Dr Leslie De Vries, Lecturer in East Asian Studies
@@ -196,7 +337,7 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
 - /Religion and Japanese Culture/
 - /Health, Medicine and the Body in East Asia/
  
-** DONEFROMWEBSITE University of Leeds
+** University of Leeds
 *** People
 **** [[https://ahc.leeds.ac.uk/languages][School of Languages, Cultures and Societies]]
 ***** Professor Martin Seeger, Professor of Thai Studies
@@ -222,7 +363,7 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
 *** Courses
 **** Postgraduate
 - MA Buddhist Studies
-** DONE University of Manchester
+** University of Manchester
 *** People
 **** [[https://www.research.manchester.ac.uk/portal/en/facultiesandschools/school-of-arts-languages-and-cultures(67be616e-b627-4747-a791-872e7594dfc1).html][School of Arts, Languages and Cultures]]
 ***** Dr Gregory Adam Scott, Senior Lecturer in Chinese Culture and History
@@ -234,7 +375,7 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
 *** Courses
 - /JAPA20221, History of Religion in Japan/
 - /CHIN30401, Ideas and Ideologies in Chinese Civilisation/
-** DONE University of Oxford
+** University of Oxford
 *** People
 **** [[https://orinst.web.ox.ac.uk/][Faculty of Asian and Middle Eastern Studies]]
 ***** Dr Cathy Cantwell, Associate Faculty Member
@@ -271,7 +412,7 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
  - MPhil in Buddhist Studies
  - MPhil in Classical Indian Religion
  - MPhil in Tibetan and Himalayan Studies
-** DONEFROMWEBSITE University of South Wales
+** University of South Wales
 *** People
 **** [[https://www.southwales.ac.uk/courses/faculty/FCI/?faculty_title=Faculty+of+Creative+Industries][Faculty of Creative Industries]]
 ***** Dr Nick Swann, Senior Lecturer and Course Leader
@@ -292,13 +433,13 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
   - /Buddhist Philosophy/
   - /Pali Language/
   - /Dissertation in Buddhist Studies/
-** DONE University of Stirling
+** University of Stirling
 *** People
 **** [[https://www.stir.ac.uk/about/faculties/arts-humanities/literature-and-languages/][Division of Literature and Languages]]
 ***** Mr Kevin MacNeil, Lecturer in Creative Writing
 - Research: The intersection of Buddhism and literature, recent and contemporary literature of the Scottish Highlands and Islands, Buddhism (Theravada and Mahayana, but especially interested in Zen), Scottish Literature, poetry and prose of the Hebrides, contemporary novels, creative writing, playwriting, screenwriting, poetry, Buddhist literature, the connections between physical activity and creativity.
 - Contact: [[mailto:kevin.macneil@stir.ac.uk][kevin.macneil@stir.ac.uk]]
-** DONEFROMWEBSITE University of Winchester
+** University of Winchester
 *** People
 **** [[https://www.winchester.ac.uk/research/our-impactful-research/research-in-humanities-and-social-sciences/research-centres-and-networks/centre-for-religion-reconciliation-and-peace/][Centre for Religion, Reconciliation and Peace]]
 ***** Professor Anna King
@@ -307,30 +448,3 @@ Prospective students are encouraged to get in touch via the Edinburgh Buddhist S
 ***** Professor Mark Owen, Director: Centre for Religion, Reconciliation and Peace
 - Research: Religions' role in peacebuilding and conflict transformation; conflict assessment and analysis; Buddhism, conflict and peacebuilding; Tibetan Buddhism; Asian politics and development.
 - Contact: [[mailto:mark.owen@winchester.ac.uk][mark.owen@winchester.ac.uk]]
-* .dump :noexport:ARCHIVE:
-** DONE Department of Anthropology
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-11-20 Sun 15:49
-:ARCHIVE_FILE: ~/Dropbox/ukabs/uni-list/uni-list.org
-:ARCHIVE_OLPATH: University List/University of Durham/People
-:ARCHIVE_CATEGORY: uni-list
-:END:
-** DONE Prof Richard F. Gombrich, Professor Emeritus, Sanskrit 
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-11-20 Sun 16:03
-:ARCHIVE_FILE: ~/Dropbox/ukabs/uni-list/uni-list.org
-:ARCHIVE_OLPATH: University List/University of Oxford/People/Faculty of Asian and Middle Eastern Studies
-:ARCHIVE_CATEGORY: uni-list
-:END:
-- Research: Early Buddhism
-- Contact: [[mailto:richard.gombrich@balliol.ox.ac.uk][richard.gombrich@balliol.ox.ac.uk]]
-# #+latex_class: article
-# #+latex_class_options: [a4paper,10.5pt]
-# #+latex_header: \usepackage[cm]{fullpage}
-# #+latex_header: \setcounter{secnumdepth}{0}
-# #+archive: uni-list.org::* .dump
-# #+latex_header: \usepackage{xcolor}
-# #+latex_header: \usepackage{hyperref}
-# #+latex_header: \hypersetup{colorlinks,breaklinks,allcolors={blue}}
-
-
