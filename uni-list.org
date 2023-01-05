@@ -155,7 +155,6 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 *** People
 **** [[https://www.divinity.cam.ac.uk/][Faculty of Divinity]]
 ***** Dr Christopher V Jones, Research Associate and Affiliated Lecturer
-- Note: Appointment until Autumn 2023.
 - Research: Indian 'Buddha-nature' tradition as it has been preserved in South, Central and East Asian literatures, foremost in connection to literature associated with the /Mahāparinirvāṇa-mahāsūtra/Dabanniepan jing/; Pre-modern Buddhist attitudes to non-Buddhist teaching and authority in India and elsewhere, and the evolving place of Buddhist reflection on liberation and liberated beings in South Asia in the early centuries CE.
 - Contact: [[mailto:cvj20@cam.ac.uk][cvj20@cam.ac.uk]]
 **** [[https://www.ames.cam.ac.uk/][Faculty of Asian and Middle Eastern Studies]]
@@ -215,7 +214,6 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 *** People
 **** [[https://www.kent.ac.uk/religious-studies/][Department of Religious Studies]]
 ***** Dr Leslie De Vries, Lecturer in East Asian Studies
-- Note: Appointment until Summer 2023.
 - Research: History of medicine and religion in China, Vietnam and Japan, with a focus on cosmology, the body, self-cultivation and therapy.
 - Contact: [[mailto:l.devries@kent.ac.uk][l.devries@kent.ac.uk]]
 *** Courses
