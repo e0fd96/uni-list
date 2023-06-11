@@ -5,7 +5,6 @@
 #+email: ilmarikoria@posteo.net
 #+date: {{{time(%b %e %Y)}}}
 
-
 * Introduction
 This is a list of UK Universities with academics in Buddhist Studies and related areas providing their research interests. It also includes BA and MA programmes or modules in Buddhist studies, (including modules that have a significant Buddhist content). Also included is an indication of UK course provision for the learning of Sanskrit, Pali and Tibetan languages, as these are largely engaged in for the purpose of research or reading of Buddhist texts. Although not specified separately, where academic staff have the relevant expertise, proposals for doctoral research in Buddhist Studies may be welcomed.
 
@@ -105,6 +104,20 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - /The Power of the Past: Religion and Politics in South Asia/ (Bihani Sarkar)
 - /Indian Religious and Philosophical Thought/ (Ram-Prasad or Brian Black) 
 - /Buddhism, State and Political Monks/  (Hiroko Kawanami)
+
+** The Courtauld Institute of Art
+*** People
+**** Lori Wong, Robert H. N. Ho Family Foundation Senior Lecturer in Conservation
+- Research: Dunhuang conservation; conservation histories, practice and theory.
+- Contact: [[mailto:lori.wong@courtauld.ac.uk][lori.wong@courtauld.ac.uk]]
+
+**** Dr Sujatha Arundathi Meegama, Robert H. N. Ho Family Foundation Senior Lecturer in Buddhist Art History
+- Research: Informal shrines in modern-day Singapore to Sri Lankan ivories made for the consumption of Portuguese, Dutch, British, and Sri Lanka Buddhist patrons. 
+- Contact: [[mailto:sujatha.meegama@courtauld.ac.uk][sujatha.meegama@courtauld.ac.uk]]
+
+*** Courses
+**** MA Art History and Conservation of Buddhist Heritage
+- [[https://courtauld.ac.uk/study/postgraduate/ma-buddhist-art-history-conservation/][Link to prospectus]].
 
 ** University College London
 *** People 
@@ -228,8 +241,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 ***** Professor Martin Seeger, Professor of Thai Studies
 - Research: Theravada Buddhism; Thai Buddhism; modern Thai history; Thai language. 
 - Contact: [[mailto:m.seeger@leeds.ac.uk][m.seeger@leeds.ac.uk]]
-** WAITING University of London, School of Oriental and African Studies (SOAS) :noexport:
-- =2022-11-26 Sat Waiting for update by Dr Travagnin=
+** University of London, School of Oriental and African Studies (SOAS) 
 *** People
 **** [[https://www.soas.ac.uk/about/schools-departments-and-sections/department-religions-and-philosophies][Department of Religions and Philosophies]]
 ***** Dr Lucia Dolce, Numata Reader in Japanese Buddhism
