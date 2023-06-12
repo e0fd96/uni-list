@@ -24,6 +24,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
   - [[#goldsmiths-university-of-london][Goldsmiths, University of London]]
   - [[#kings-college-london][King's College London]]
   - [[#lancaster-university][Lancaster University]]
+  - [[#the-courtauld-institute-of-art][The Courtauld Institute of Art]]
   - [[#university-college-london][University College London]]
   - [[#university-of-aberdeen][University of Aberdeen]]
   - [[#university-of-bristol][University of Bristol]]
@@ -112,7 +113,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - Contact: [[mailto:lori.wong@courtauld.ac.uk][lori.wong@courtauld.ac.uk]]
 
 **** Dr Sujatha Arundathi Meegama, Robert H. N. Ho Family Foundation Senior Lecturer in Buddhist Art History
-- Research: Informal shrines in modern-day Singapore to Sri Lankan ivories made for the consumption of Portuguese, Dutch, British, and Sri Lanka Buddhist patrons. 
+- Research: Sri Lankan ivories made for the consumption of Portuguese, Dutch, British, and Sri Lankan Buddhist patrons; temple museums in Sri Lanka; informal shrines in modern-day Sri Lanka and Singapore; collecting and curating religious objects; and repatriation of Sri Lankan religious objects.
 - Contact: [[mailto:sujatha.meegama@courtauld.ac.uk][sujatha.meegama@courtauld.ac.uk]]
 
 *** Courses
