@@ -61,7 +61,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - Research: Archaeological Ethics and Practice in Cultural Heritage; Later Prehistory and Early Historic archaeology of Southern Asia (from Iran to Myanmar); Urbanisation; Archaeological visibility of Buddhism; Caste and the development of craft specialisation; Politics, identity and archaeology; International cultural resource management; UNESCO and World Heritage; Post-disaster archaeology; Post-conflict archaeology; Sustainable pilgrimage; Indian Ocean and Arabian Sea Trade
 - Contact: [[mailto:r.a.e.coningham@durham.ac.uk][r.a.e.coningham@durham.ac.uk]]
 **** [[https://www.durham.ac.uk/departments/academic/philosophy/contact-us/][Department of Philosophy]]
-***** Professor Simon P. James, Professor/DEC Chair 
+***** Prof Simon P. James, Professor/DEC Chair 
 - Research: Environmental philosophy; Existential phenomenology; Buddhist philosophy.
 - Contact: [[https://www.durham.ac.uk/departments/academic/philosophy/contact-us/][via departmental contact form]].
 
@@ -108,11 +108,13 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 
 ** The Courtauld Institute of Art
 *** People
-**** Lori Wong, Robert H. N. Ho Family Foundation Senior Lecturer in Conservation
+**** Conservation Department
+***** Lori Wong, Robert H. N. Ho Family Foundation Senior Lecturer in Conservation
 - Research: Dunhuang conservation; conservation histories, practice and theory.
 - Contact: [[mailto:lori.wong@courtauld.ac.uk][lori.wong@courtauld.ac.uk]]
 
-**** Dr Sujatha Arundathi Meegama, Robert H. N. Ho Family Foundation Senior Lecturer in Buddhist Art History
+**** History of Art Department
+***** Dr Sujatha Arundathi Meegama, Robert H. N. Ho Family Foundation Senior Lecturer in Buddhist Art History
 - Research: Sri Lankan ivories made for the consumption of Portuguese, Dutch, British, and Sri Lankan Buddhist patrons; temple museums in Sri Lanka; informal shrines in modern-day Sri Lanka and Singapore; collecting and curating religious objects; and repatriation of Sri Lankan religious objects.
 - Contact: [[mailto:sujatha.meegama@courtauld.ac.uk][sujatha.meegama@courtauld.ac.uk]]
 
@@ -172,13 +174,13 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 - Research: Indian 'Buddha-nature' tradition as it has been preserved in South, Central and East Asian literatures, foremost in connection to literature associated with the /Mahāparinirvāṇa-mahāsūtra/Dabanniepan jing/; Pre-modern Buddhist attitudes to non-Buddhist teaching and authority in India and elsewhere, and the evolving place of Buddhist reflection on liberation and liberated beings in South Asia in the early centuries CE.
 - Contact: [[mailto:cvj20@cam.ac.uk][cvj20@cam.ac.uk]]
 **** [[https://www.ames.cam.ac.uk/][Faculty of Asian and Middle Eastern Studies]]
-***** Professor Imre Galambos
+***** Prof Imre Galambos
 - Research: Medieval China; Dunhuang studies; history of Chinese writing; Chinese manuscripts and epigraphy; contacts between China and Central Asia; Tangut studies; history of the exploration of Central Asia.
 - Contact: [[mailto:iig21@cam.ac.uk][iig21@cam.ac.uk]]
 ** University of Chester
 *** People
 **** [[https://www1.chester.ac.uk/departments/theology-and-religious-studies][Department of Theology and Religious Studies: Faculty of Arts and Humanities]]
-***** Dr Wendy Dossett, Associate Professor of Religious Studies
+***** Dr Wendy Dossett, Associate Prof of Religious Studies
 - Research: Japanese Pure Land Buddhism; Buddhism and Addiction Recovery; Buddhism and Religious Education.
 - Contact: [[mailto:w.dossett@chester.ac.uk][w.dossett@chester.ac.uk]]
 *** Courses
@@ -211,7 +213,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 ***** Dr Takeshi Morisato 森里武, Lecturer 
 - Research: Metaphysics, Philosophy of Religion, and Existentialism; Contemporary Japanese philosophy (especially the Kyoto School); Kūkai 空海 (774–835) and his Shingon Esoteric Buddhist philosophy.
 - Contact: [[mailto:tmorisat@ed.ac.uk][tmorisat@ed.ac.uk]]
-***** Prof Jonathan Spencer, Regius Professor of South Asian Language, Culture and Society 
+***** Prof Jonathan Spencer, Regius Prof of South Asian Language, Culture and Society 
  - Research: Religion and politics; Sri Lanka; South and Southeast Asia; Buddhism; war and peace.
  - Contact: [[mailto:jonathan.spencer@ed.ac.uk][jonathan.spencer@ed.ac.uk]]
 ***** Dr Abigail MacBain, Lecturer of Premodern Japanese Studies
@@ -239,7 +241,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 ** University of Leeds
 *** People
 **** [[https://ahc.leeds.ac.uk/languages][School of Languages, Cultures and Societies]]
-***** Professor Martin Seeger, Professor of Thai Studies
+***** Prof Martin Seeger, Prof of Thai Studies
 - Research: Theravada Buddhism; Thai Buddhism; modern Thai history; Thai language. 
 - Contact: [[mailto:m.seeger@leeds.ac.uk][m.seeger@leeds.ac.uk]]
 ** University of London, School of Oriental and African Studies (SOAS) 
@@ -248,7 +250,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 ***** Dr Lucia Dolce, Numata Reader in Japanese Buddhism
 - Research: Japanese religious history, especially the medieval period; Japanese Tantric Buddhism and the esotericisation of religious practice; Millenarian writings and prophecy; Kami-Buddhas associations
 - Contact: [[mailto:ld16@soas.ac.uk][ld16@soas.ac.uk]]
-***** Professor Ulrich Pagel, Head of School
+***** Prof Ulrich Pagel, Head of School
 - Research: History of Buddhism in Tibet, Mahāyāna Buddhism, Kanjur Studies, Vinaya, Religions of Central Asia, Tibetan, Sanskrit. 
 - Contact: [[mailto:up1@soas.ac.uk][up1@soas.ac.uk]]
 **** [[https://www.soas.ac.uk/about/schools-departments-and-sections/department-history-art-and-archaeology][Department of the History of Art and Archaeology]]
@@ -267,7 +269,7 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 ***** Dr Gregory Adam Scott, Senior Lecturer in Chinese Culture and History
 - Research: History and culture of China between 1800 and 1978. 
 - Contact: [[mailto:gregory.scott@manchester.ac.uk][gregory.scott@manchester.ac.uk]]
-***** Prof Erica Baffelli, Professor of Japanese Studies
+***** Prof Erica Baffelli, Prof of Japanese Studies
 - Research: Religion in contemporary Japan with a focus on religious minorities/marginalities, media and technology, violence, emotions and temporalities. 
 - Contact: [[mailto:erica.baffelli@manchester.ac.uk][erica.baffelli@manchester.ac.uk]]
 *** Courses
@@ -285,20 +287,20 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 ***** Dr Sarah Shaw, Faculty Member
 - Research: Early Buddhist (Pali) suttas and Abhidhamma material on meditation; Early Buddhist narrative: literary features of Jatakas and Dhammapada stories; Indian and Asian influences on British nineteenth-century writers; modern South and Southeast Asian Buddhist ritual, chant and meditation.
 - Contact: [[mailto:sarah.shaw@orinst.ox.ac.uk][sarah.shaw@orinst.ox.ac.uk]]
-***** Prof David Gellner, Professor of Social Anthropology
+***** Prof David Gellner, Prof of Social Anthropology
 - Research: Anthropology of South Asia; East Asia; Buddhism; Hinduism; cities;ritual; politics; ethnicity; activism; borderlands; class formation and cultural change.
 - Contact: [[mailto:david.gellner@anthro.ox.ac.uk][david.gellner@anthro.ox.ac.uk]]
-***** Prof Kate Crosby, Numata Professor of Buddhist Studies
+***** Prof Kate Crosby, Numata Prof of Buddhist Studies
 - Research: Pali; Sanskrit; and Sri Lanka and Southeast Asia literature; Theravada meditation; history and practice; comparative Theravada.
 - Contact: [[mailto:kate.crosby@orinst.ox.ac.uk][kate.crosby@orinst.ox.ac.uk]]
-***** Prof Ulrike Roesler, Professor of Tibetan and Himalayan Studies
+***** Prof Ulrike Roesler, Prof of Tibetan and Himalayan Studies
 - Research: Literature and religion of the Veda; Indo-Tibetan Buddhism; history of bKa’-gdams-pa school; ‘sacred landscapes’ in literature and ritual practice.
 - Contact: [[mailto:ulrike.roesler@orinst.ox.ac.uk][ulrike.roesler@orinst.ox.ac.uk]]
 **** [[https://www.theology.ox.ac.uk/][Faculty of Theology and Religion]]
 ***** Dr Andrew Skilton, Pali Instructor
 - Research: Colllecting, interpretation and translation of Buddhist texts; the roles of writing and orality in the formation of Buddhist scripture; pre-reform meditation systems in the Theravada Buddhist world, and Buddhist meditation in general; Mahayana scripture, especially the Samadhiraja Sutra (C2nd CE); Buddhism in the contemporary world, including its transmission to the UK.
 - Contact: [[mailto:andrew.skilton@theology.ox.ac.uk][andrew.skilton@theology.ox.ac.uk]]
-***** Prof Jan Westerhoff, Professor of Buddhist Philosophy
+***** Prof Jan Westerhoff, Prof of Buddhist Philosophy
 - Research: Philosophical aspects of the religious traditions of ancient India. Buddhist thought (especially Madhyamaka) as preserved in Sanskrit and Tibetan sources; Classical Indian philosophy (particularly Nyāya); Buddhist philosophy, both theoretical (metaphysics, epistemology, philosophy of language) and normative aspects (ethics).
 - Contact: [[mailto:jan.westerhoff@theology.ox.ac.uk][jan.westerhoff@theology.ox.ac.uk]]
 *** Courses
@@ -340,9 +342,9 @@ Last update: _{{{time(%b %e\, %Y)}}}_.
 ** University of Winchester
 *** People
 **** [[https://www.winchester.ac.uk/research/our-impactful-research/research-in-humanities-and-social-sciences/research-centres-and-networks/centre-for-religion-reconciliation-and-peace/][Centre for Religion, Reconciliation and Peace]]
-***** Professor Anna King
+***** Prof Anna King
 - Research: The theoretical study of the interrelation between religion and politics/nationalism; Religion, conflict, and peacebuilding; Multiculturalism as a framework for conflict transformation and as a theory of justice; The role of religious leaders, narratives and communities in re-imagining questions of peace and justice; The role of interfaith dialogue in ethno-religious national contexts; The theorisation of ‘religion’ and ‘spirituality’ in a globalising world; Contemporary Buddhist and Hindu schools and traditions and their engagement with shared global challenges (global warming, environmental degradation, advances in genetics and neuroscience, animal welfare and rights, etc.).
 - Contact: [[mailto:anna.king@winchester.ac.uk][anna.king@winchester.ac.uk]]
-***** Professor Mark Owen, Director: Centre for Religion, Reconciliation and Peace
+***** Prof Mark Owen, Director: Centre for Religion, Reconciliation and Peace
 - Research: Religions' role in peacebuilding and conflict transformation; conflict assessment and analysis; Buddhism, conflict and peacebuilding; Tibetan Buddhism; Asian politics and development.
 - Contact: [[mailto:mark.owen@winchester.ac.uk][mark.owen@winchester.ac.uk]]
